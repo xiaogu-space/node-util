@@ -12,7 +12,7 @@ function generatePositiveIntegers(totalSum, numIntegers) {
 
 // 设置总和和要生成的正整数个数
 const totalSum = 100;
-const numIntegers = 8;
+const numIntegers = 7;
 
 // 生成满足条件的正整数
 let result = generatePositiveIntegers(totalSum, numIntegers);

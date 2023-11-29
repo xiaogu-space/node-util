@@ -1,0 +1,5556 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~住宅区"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4706108091536,
+          39.990807876691974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~住宅区"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46953934937308,
+          39.9895000952846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~住宅区"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46225494692673,
+          39.993905838571045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~住宅区"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4631224026684,
+          39.993697619472215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~住宅区"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46446395256051,
+          39.98825676074821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~住宅区"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46771865547456,
+          39.99245588715517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~住宅区"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46036162703898,
+          39.992948862096526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~住宅区"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46087460373975,
+          39.98830024673654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~平均房价"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46841100469605,
+          39.989023839694944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~平均房价"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46779158404007,
+          39.99394630641319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~平均房价"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46507898261113,
+          39.993261347747264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~平均房价"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.47021177217731,
+          39.992199822604974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~平均房价"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.47028710135592,
+          39.989129201668604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~平均房价"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46201503673193,
+          39.98789476377622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~平均房价"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46114539098738,
+          39.9926688474035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~写字楼"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46075816677462,
+          39.98931820794053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~写字楼"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46491812857276,
+          39.99463942729806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~写字楼"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46872616850061,
+          39.99004814772924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~写字楼"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4645880263431,
+          39.99408061338408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~写字楼"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46689537208435,
+          39.98948495855487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~写字楼"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46467397168412,
+          39.99040777617295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~写字楼"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46305310232174,
+          39.988113409083624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~写字楼"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46007583322351,
+          39.98924650790125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~写字楼"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.45985313941652,
+          39.99165128542348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~写字楼"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4689550821078,
+          39.99252905814466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~租金"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46282500920557,
+          39.99205231744797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~租金"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46730223210464,
+          39.98724819562012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~租金"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46488276995314,
+          39.99153690611686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~租金"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46598768779475,
+          39.99061049514512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~租金"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46605758656675,
+          39.99468624732467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~租金"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46708835723632,
+          39.987864997188076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~租金"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46591696404171,
+          39.98940467746216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~区域特征~租金"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46315976990834,
+          39.987547417976806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~商圈"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46133847644862,
+          39.98799497025126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~商圈"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46785499864357,
+          39.993084077139294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~商圈"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46706361121699,
+          39.99092569579886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~商圈"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46610792544662,
+          39.988078062551324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~商圈"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46688598930231,
+          39.98806365295507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~商圈"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46644578710452,
+          39.99053975985605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~商圈"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46466358200207,
+          39.98696402949341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46221496421926,
+          39.99389657656013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46365959730396,
+          39.9868374086496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46628564079946,
+          39.988198412139255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46967186701696,
+          39.98960701977891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46378479931454,
+          39.99375157929541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4602732759025,
+          39.99152326896029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46290972757369,
+          39.98672246798898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46153538248925,
+          39.98789402196903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.47066871458995,
+          39.99170704759498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46806158970143,
+          39.988378451906904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46342989889104,
+          39.99179721749487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46511828422558,
+          39.990326700171195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46287610193764,
+          39.98904828804347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46441819713793,
+          39.987528719268504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46592552684746,
+          39.99134487580052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46160161041989,
+          39.99267469717385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46636254593776,
+          39.987920626375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46727985877766,
+          39.99209979797783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46539793047323,
+          39.98626955997267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46820930503945,
+          39.99236592675898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46165722722945,
+          39.989645075438304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.45963111680538,
+          39.99146719369798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4678761930556,
+          39.98795070640302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4598907024964,
+          39.99265829025989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46976305800139,
+          39.9915745166091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~酒店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46529208008238,
+          39.99448727613504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~酒店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46750888128273,
+          39.99384767093739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~酒店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46708575603789,
+          39.987575698118796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~酒店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46911656307833,
+          39.98979259457392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~酒店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46464499216552,
+          39.986668403844355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~酒店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46854819812748,
+          39.987529984441146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~金融"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46746498611554,
+          39.98961380603771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~金融"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46314304834586,
+          39.98883664420812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~金融"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46751020519491,
+          39.99441246960725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~金融"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46471197749547,
+          39.99233194379273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~金融"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46223474924479,
+          39.98678630080364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~金融"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46547703807846,
+          39.9873057840874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~商铺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46592036925523,
+          39.993259827583316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~商铺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46098004775412,
+          39.99256664782702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~商铺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4662071749769,
+          39.98701066249013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~商铺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46749746188306,
+          39.99294699302305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~商铺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46471715812935,
+          39.9880221715869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~商铺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46249190695983,
+          39.98716272892742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~商铺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46245062048948,
+          39.99242041936394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~餐饮"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46246705586448,
+          39.98921362203144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~餐饮"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46373893571462,
+          39.992764071706226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~餐饮"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4599168361608,
+          39.99200951170767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~餐饮"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46646423587946,
+          39.99076471811038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~餐饮"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46716939655872,
+          39.98933798625366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~餐饮"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46508606955666,
+          39.992453198660066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~餐饮"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46009155720452,
+          39.99006775198489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~餐饮"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.47006524095825,
+          39.99228926707373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~餐饮"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46484074072977,
+          39.994415699078786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~配套设施~餐饮"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46451706000636,
+          39.98821240801306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~公交站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46751655386167,
+          39.98856235225957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~公交站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46875257783874,
+          39.99194288666515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~公交站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46272290214404,
+          39.994672811540745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~公交站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46505260852366,
+          39.99394777540297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~公交站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4667196175725,
+          39.9869565459348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~公交站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46806924924505,
+          39.98867726488442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~公交站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46850956709437,
+          39.99352452836472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~公交站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.47065447783679,
+          39.9918468360677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~公交站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46645707126751,
+          39.99002435585349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~公交线路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46062504534862,
+          39.99261760787359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~公交线路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46181697524388,
+          39.992060505749286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~公交线路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46229851906635,
+          39.992340326596576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~公交线路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46505636043825,
+          39.989466815748294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~公交线路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46223292040567,
+          39.98953244483055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~公交线路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4623959362857,
+          39.99279221065304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~公交线路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4674050100285,
+          39.99239612296686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~公交线路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46742519306775,
+          39.99385274150553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~公交线路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46584239658051,
+          39.99073044143555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~公交线路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46283471274606,
+          39.99113530521295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~地铁站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46854389977047,
+          39.990235218399384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~地铁站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46814557296973,
+          39.988680471615915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~地铁站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46642818738053,
+          39.98738779632369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~地铁站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46076334465019,
+          39.98834704758833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~地铁站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46315575836846,
+          39.99433822017439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~地铁站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46521551446571,
+          39.99062471854398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~地铁站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46218803484498,
+          39.99317460118209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~地铁站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46457725318206,
+          39.98661743794784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~地铁站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46041527649699,
+          39.98911096466614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~地铁线路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46565540510193,
+          39.98690859343025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~地铁线路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46653999234066,
+          39.99236541979984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~地铁线路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4637713691565,
+          39.992373017459435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~地铁线路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46591109603314,
+          39.98963741442009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~地铁线路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4607364102095,
+          39.98786721522523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~地铁线路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4642703051315,
+          39.98751903527894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~地铁线路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46729018722368,
+          39.99353116470103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~停车场"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46695897656122,
+          39.988614037816674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~停车场"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46720042879379,
+          39.99464327343707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~停车场"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46684960613035,
+          39.990643093699575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~停车场"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46524305466703,
+          39.9903774511298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~停车场"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46492214196374,
+          39.98663432606069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~停车场"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4608668978397,
+          39.99241111317533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~充电桩"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4663458122062,
+          39.99420477332875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~充电桩"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46713908941241,
+          39.993511287208975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~充电桩"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.47020644409683,
+          39.991600170193365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~充电桩"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.47009294035601,
+          39.9893433405174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~充电桩"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4676455762213,
+          39.99148821221985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~充电桩"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46339321161452,
+          39.99342906230574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~充电桩"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46518974062133,
+          39.98632234818442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~充电桩"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46473288665946,
+          39.98893222990968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~充电桩"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46687837372174,
+          39.98966900866816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~客运站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46456257325569,
+          39.98824390394604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~客运站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4649602731485,
+          39.987020332918206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~客运站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46335142755763,
+          39.98935734278241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~客运站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46340629437582,
+          39.989572025850215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~客运站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46910570089864,
+          39.9932670704578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~客运站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.45964359706642,
+          39.99237970911245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~客运站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46533383198991,
+          39.993664539748146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~客运站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.47044054001472,
+          39.98993545175548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "基础配套~交通概况~客运站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46246679276696,
+          39.99360581775292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~中餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4682868510114,
+          39.987150592278674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~中餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46382350356974,
+          39.98866565465476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~中餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46644304432354,
+          39.98691725625203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~中餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46533849989342,
+          39.99155350960585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~中餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46906197157878,
+          39.987491428612586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~中餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46606873408984,
+          39.98717002667582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~中餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46880288585865,
+          39.994140590127195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~快餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46437167570173,
+          39.988169568934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~快餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46607649083062,
+          39.987849290892285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~快餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46169282144784,
+          39.9912935303013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~快餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46104741197209,
+          39.991548534993015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~快餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.45981856931414,
+          39.989576083708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~快餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46324732034428,
+          39.98764863899293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~快餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4671626557576,
+          39.99118432448742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~快餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46151439136038,
+          39.988214959611796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~快餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4623371044872,
+          39.98798581713469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~快餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46918222317167,
+          39.98846566299266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~餐饮相关场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46094531631613,
+          39.98817787665062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~餐饮相关场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46592993973067,
+          39.98655928655643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~餐饮相关场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46944699970201,
+          39.9907633205718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~餐饮相关场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46601780324715,
+          39.99088177051864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~餐饮相关场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46380517377503,
+          39.98692618212259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~餐饮相关场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46551024891266,
+          39.9939569953225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~糕饼店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46318313694385,
+          39.994482128585915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~糕饼店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46749676226288,
+          39.992803532770296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~糕饼店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46976239078816,
+          39.991937164849084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~糕饼店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4686220014913,
+          39.992722302079294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~糕饼店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46646455347654,
+          39.99036839624474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~糕饼店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46185810109452,
+          39.9907299617866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~糕饼店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46122151359535,
+          39.9886054882917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~糕饼店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46327972994158,
+          39.99301713707465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~糕饼店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46458868896195,
+          39.99402420953084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~咖啡厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46660443157012,
+          39.98652380202623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~咖啡厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46293555738059,
+          39.99227882703893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~咖啡厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46384741152565,
+          39.98778063051723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~咖啡厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46258366557547,
+          39.99335657769874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~咖啡厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46964352767297,
+          39.99313900021786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~咖啡厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46111557088659,
+          39.99061080151229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~咖啡厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46399364228213,
+          39.98732299236016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~外国餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46536383297979,
+          39.991312842739845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~外国餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46373589366617,
+          39.99398715976017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~外国餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4629066085369,
+          39.992823498438774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~外国餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.467646614432,
+          39.98925678875111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~外国餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4667235003806,
+          39.98655137741826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~外国餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.45991298424428,
+          39.99115642010028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~外国餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46967949743618,
+          39.991701652447354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~外国餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46779911113,
+          39.98837325798541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~外国餐厅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46744072072973,
+          39.9937232720372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~冷饮店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46641385897846,
+          39.99059938098927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~冷饮店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4613045099792,
+          39.9906807180335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~冷饮店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46920779394284,
+          39.990821113455134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~冷饮店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46866942719856,
+          39.992562998534645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~冷饮店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46459478030117,
+          39.99150297525192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~冷饮店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46388949652388,
+          39.99142969465071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~其他"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46950951049466,
+          39.99228707230605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~其他"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46879705181571,
+          39.98898152641917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~其他"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46578490815146,
+          39.990023629773766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~其他"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46751885274644,
+          39.988915711642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~其他"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46421234430282,
+          39.99489190949248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~其他"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46656631081714,
+          39.99217304377495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~其他"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46217368939645,
+          39.99171711946128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~美食餐饮~其他"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46897760326743,
+          39.99365584445433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~生活服务场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46378447760539,
+          39.99233406406145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~生活服务场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46833082962834,
+          39.98983830949413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~生活服务场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46144391030874,
+          39.98972521140775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~生活服务场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46255547561398,
+          39.98696191101907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~生活服务场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46182069497313,
+          39.99392431576955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~生活服务场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46501347866068,
+          39.993056704551265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~生活服务场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46891771601719,
+          39.98995587979823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~美容美发店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.45944556310555,
+          39.99039374689266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~美容美发店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4617697035858,
+          39.99316685107753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~美容美发店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46311331826551,
+          39.9936826373243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~美容美发店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46490795072609,
+          39.98955221424183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~美容美发店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46021939580862,
+          39.990642348863226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~美容美发店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46722745746317,
+          39.99212357807953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~美容美发店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46759737724497,
+          39.99273482234031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~中介机构"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46494263395896,
+          39.992478331608716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~中介机构"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46123522016468,
+          39.99070019223707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~中介机构"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4640742189031,
+          39.987561445097796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~中介机构"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46194733335861,
+          39.99090714375785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~中介机构"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.466327542518,
+          39.99451745057084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~中介机构"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46207765522306,
+          39.98864875692234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~洗浴推拿场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46729552773263,
+          39.993280846702014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~洗浴推拿场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.45965406925151,
+          39.98927949148718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~洗浴推拿场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46182739962177,
+          39.98970614719358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~洗浴推拿场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46956933649125,
+          39.99349051014847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~洗浴推拿场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46072339630307,
+          39.99205931055271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~洗浴推拿场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46319631876402,
+          39.987054227070026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~洗浴推拿场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46814396659119,
+          39.989484655328056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~洗浴推拿场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4636038076792,
+          39.99251066757248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~物流速递"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46017001765465,
+          39.98912807913051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~物流速递"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46546142598463,
+          39.992842291537855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~物流速递"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.465115451454,
+          39.98674593945067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~物流速递"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46713750451076,
+          39.99129779103625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~物流速递"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4649802173001,
+          39.99287547054661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~物流速递"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46374436186593,
+          39.99259564625749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~摄影冲印店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46393888064999,
+          39.99465960725249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~摄影冲印店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46180924976484,
+          39.994342396106504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~摄影冲印店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46325121584606,
+          39.99186248536198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~摄影冲印店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46910406826616,
+          39.98784562057489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~摄影冲印店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46201587035544,
+          39.98803990025371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~摄影冲印店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46438414635277,
+          39.98763655672936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~摄影冲印店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46533531948477,
+          39.995058974215176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~洗衣店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46617340177909,
+          39.99257985769126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~洗衣店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.47053916695867,
+          39.9911132243696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~洗衣店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46766220079178,
+          39.99127154771592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~洗衣店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4623102456761,
+          39.989743377096744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~洗衣店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46265717558781,
+          39.987610725601435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~洗衣店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46680796074621,
+          39.99187358413311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~洗衣店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46613601964206,
+          39.98784162022999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~洗衣店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46413246105615,
+          39.9902252174913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~其他"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46624616641925,
+          39.99244386745412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~其他"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4618628158148,
+          39.99351582276046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~其他"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46438159057602,
+          39.98827052048483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~其他"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46800739575201,
+          39.992025059930086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~其他"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46136243619667,
+          39.99125626676544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~生活服务~其他"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46693401767973,
+          39.994622165800315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~宾馆酒店~住宿服务相关"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4625717994123,
+          39.990402540110914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~宾馆酒店~住宿服务相关"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46873612895222,
+          39.98764079325133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~宾馆酒店~住宿服务相关"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46690395128213,
+          39.98858980136461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~宾馆酒店~住宿服务相关"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46229464198152,
+          39.993218366820095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~宾馆酒店~住宿服务相关"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4697192281381,
+          39.98982717251699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~宾馆酒店~住宿服务相关"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46909301639165,
+          39.99124836800078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~宾馆酒店~住宿服务相关"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46295667926081,
+          39.99407415104343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~宾馆酒店~住宿服务相关"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4660733398903,
+          39.99410268258552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~宾馆酒店~宾馆酒店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46989933756107,
+          39.99203750702223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~宾馆酒店~宾馆酒店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46638429880032,
+          39.99408120068637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~宾馆酒店~宾馆酒店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4701620969773,
+          39.98944667138995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~宾馆酒店~宾馆酒店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.45974068538128,
+          39.990700881888905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~宾馆酒店~宾馆酒店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46416118019806,
+          39.991847279285224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~宾馆酒店~宾馆酒店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46096043311523,
+          39.988999193818564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~宾馆酒店~宾馆酒店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46812755470543,
+          39.98840358435342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~宾馆酒店~旅馆招待所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46368319111458,
+          39.99305732932332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~宾馆酒店~旅馆招待所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4691426156428,
+          39.992472289718236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~宾馆酒店~旅馆招待所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46497111151994,
+          39.988002160576066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~宾馆酒店~旅馆招待所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46123914474244,
+          39.99296100352352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~宾馆酒店~旅馆招待所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46171923976958,
+          39.99208760395549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~宾馆酒店~旅馆招待所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46943776234178,
+          39.98890270605545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46725186398338,
+          39.99444501270886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46604922830107,
+          39.99309460646661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46640119341185,
+          39.98678093204524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46032076277321,
+          39.98860346062703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46216556065798,
+          39.99059446975222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46300900068518,
+          39.991306000555866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46665610416535,
+          39.99429945730467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46360892705107,
+          39.987861160171526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4655318843867,
+          39.98924450932707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4644401267754,
+          39.9924899200145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46378157271832,
+          39.99267373926651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46258631450922,
+          39.990743638980085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46180946302009,
+          39.99258158127724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4644744570246,
+          39.989598884812395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46675225907327,
+          39.98976599057781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46558282591923,
+          39.988227741162504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46030409167898,
+          39.99144360648088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~诊所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4630385461865,
+          39.988236411367744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~诊所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46987032795356,
+          39.98887599559644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~诊所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46646710992106,
+          39.99246560640156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~诊所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46783186362306,
+          39.99309333281104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~诊所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46930325919493,
+          39.99130314384606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~诊所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4659465568195,
+          39.98711537879207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~诊所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46457790310737,
+          39.98642654563417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~诊所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46310500925236,
+          39.99376473631113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~诊所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46234507030438,
+          39.991097922881515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~动物医疗场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46408706353125,
+          39.99019090380963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~动物医疗场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46058413545282,
+          39.98984161801944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~动物医疗场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46832670706105,
+          39.99392490348939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~动物医疗场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46571704334596,
+          39.99237321436082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~医疗卫生~动物医疗场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46803553923775,
+          39.988952468938265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~休闲场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46632874356405,
+          39.99124675492453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~休闲场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46992144016656,
+          39.9924969187256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~休闲场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4674559839466,
+          39.99457835204284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~休闲场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4607264165395,
+          39.990576774893164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~休闲场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46087759466654,
+          39.99281377512252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~休闲场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46986274507367,
+          39.99180837084017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~休闲场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4650645821843,
+          39.99264411976954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~休闲场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46371126692809,
+          39.98965121694163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~休闲场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46665741827944,
+          39.991736172609066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~休闲场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.45994975465938,
+          39.99146850830679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~体育休闲服务场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46195597129243,
+          39.99295362110987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~体育休闲服务场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46545425491006,
+          39.987010627004906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~体育休闲服务场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4625070092617,
+          39.98744793542873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~体育休闲服务场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46514884320337,
+          39.99197316925456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~体育休闲服务场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46764734733915,
+          39.993802088708634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~体育休闲服务场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46071943008845,
+          39.99311003224564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~体育休闲服务场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46481298580493,
+          39.993807435372666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~体育休闲服务场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46122135021645,
+          39.993413831464025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~体育休闲服务场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4625424214925,
+          39.98904948489677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~娱乐场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4633422793215,
+          39.99436960934429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~娱乐场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46466113250402,
+          39.99236504118465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~娱乐场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46689524768432,
+          39.99181910762007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~娱乐场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46133374612536,
+          39.993923609251944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~娱乐场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46223701616937,
+          39.99308025174407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~度假疗养场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46818855804442,
+          39.99210669711963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~度假疗养场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46645451263376,
+          39.986942504629965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~度假疗养场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46632064452913,
+          39.99260825020298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~度假疗养场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46425063073777,
+          39.989333075978614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~度假疗养场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46290124915905,
+          39.98950156227018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~度假疗养场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46039835468294,
+          39.988216365287286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~度假疗养场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4655868867593,
+          39.99441980044084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~度假疗养场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46895359391628,
+          39.992876331932685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~度假疗养场所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46337862271182,
+          39.994302701360134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~影剧院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46272786543595,
+          39.98774550136389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~影剧院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46265912765486,
+          39.99094361663692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~影剧院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46003606411297,
+          39.98913432413061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~影剧院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46111451678581,
+          39.99057430075678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~影剧院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46487995712134,
+          39.99226021450944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~影剧院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4667087070693,
+          39.99028899866582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~影剧院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46304499032699,
+          39.98681433093578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~影剧院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4666596974002,
+          39.994704781382666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~影剧院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4680426718334,
+          39.98990156996455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~运动场馆"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46349032633337,
+          39.99492187159543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~运动场馆"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46675516260258,
+          39.9920687863539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~运动场馆"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4654142723961,
+          39.98883437568984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~运动场馆"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46621143957866,
+          39.99221814899296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~运动场馆"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46086146635103,
+          39.99202562594499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~运动场馆"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46215485212922,
+          39.989186808495326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~运动场馆"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46706574886312,
+          39.988940050897654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~体育休闲~运动场馆"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4696451630411,
+          39.99280723930298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~保险公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46697321653231,
+          39.99292902466967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~保险公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46040822094989,
+          39.9896486877431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~保险公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46974931060048,
+          39.99315499762118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~保险公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46472212502721,
+          39.988341379979836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~保险公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46753192248065,
+          39.99214779590437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~保险公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46669446681071,
+          39.988116928863946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~保险公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46407099925739,
+          39.99263943621072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~保险公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46331988809813,
+          39.992636814120196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~保险公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46820967326202,
+          39.987309816381284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~自动提款机"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46888012501186,
+          39.99356388572814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~自动提款机"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46697370625544,
+          39.99021892809176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~自动提款机"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46969257471417,
+          39.988254778000474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~自动提款机"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46572451091662,
+          39.98827328795133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~自动提款机"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46445444092127,
+          39.98779318371315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~自动提款机"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4644805162527,
+          39.989495038785954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~自动提款机"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46052405206987,
+          39.98911630350033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~自动提款机"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46764498503582,
+          39.991298522114526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~证券公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.47006016691574,
+          39.992850789089836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~证券公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4643021933804,
+          39.994880822067174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~证券公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46628298822215,
+          39.987795955274464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~证券公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46774699793663,
+          39.9922560096144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~证券公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46143662659682,
+          39.99317712435571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~证券公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46068190352912,
+          39.991217386925726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~证券公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46655655407943,
+          39.990346326368574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~证券公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46022485405038,
+          39.99252951906756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~财务公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46643979004537,
+          39.99463497734029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~财务公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46692313115814,
+          39.99053423177241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~财务公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46469113542418,
+          39.98988493858755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~财务公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46433175166739,
+          39.994726027596826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~财务公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46176357802852,
+          39.987037992659225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~财务公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4637364894054,
+          39.98652100386287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~财务公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46600499235332,
+          39.98846262751104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~财务公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46598222624498,
+          39.98706141267235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~金融保险服务机构"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46195034087478,
+          39.99350719065215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~金融保险服务机构"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46322229069209,
+          39.992769446022365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~金融保险服务机构"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46711536542952,
+          39.99387194922554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~金融保险服务机构"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46562046168832,
+          39.98769980634917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~金融保险服务机构"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4635682621094,
+          39.98712446797219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~金融保险服务机构"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46063761904377,
+          39.98953266814165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~金融保险服务机构"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46276871516717,
+          39.989198353079765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~金融保险服务机构"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4680760272562,
+          39.99342423175744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~银行"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46216678308,
+          39.991134111509965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~银行"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4696826892019,
+          39.99326456935296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~银行"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46818814586234,
+          39.99369040259297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~银行"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46570063969159,
+          39.98697793295129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~银行"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46436512278072,
+          39.99183747632107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~银行"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46733673144686,
+          39.994704419357596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~银行"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46550418356968,
+          39.99315723560865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~银行"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46265023510989,
+          39.99346850824609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~银行"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46189552611142,
+          39.99147035535676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~银行相关"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46744770039221,
+          39.99433651274971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~银行相关"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46364284383472,
+          39.99322059496984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~银行相关"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4612448384813,
+          39.99345178054498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~银行相关"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46629749493427,
+          39.994216640300614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dataType": "周边业态~金融银行~银行相关"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46166383309497,
+          39.98714810893472
+        ]
+      }
+    }
+  ]
+}
