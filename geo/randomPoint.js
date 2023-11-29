@@ -16,16 +16,44 @@ function generateRandomPointsInPolygon(geojson, numPoints, dataType) {
     });
 
     // 在每个要素的properties中添加属性dataType
-    pointsInsidePolygon.forEach(point => {
+    pointsInsidePolygon.forEach(function (point, index) {
         point.properties.dataType = dataType;
+        if (dataType.includes('住宅区')) {
+            point.properties.name = "小区" + index
+            point.properties.price = 7.8
+            point.properties.houseNum = 2600
+        } else if (dataType.includes('写字楼')) {
+            point.properties.name = "写字楼" + index
+            point.properties.rent = 3
+            point.properties.area = 700
+        } else if (dataType.includes('配套设施') || dataType.includes('周边业态')) {
+            const dataTypes = dataType.split('~')
+            point.properties.name = dataTypes[dataTypes.length - 1] + index
+            point.properties.address = "京市朝阳区广顺南大街"
+            point.properties.type = dataTypes[dataTypes.length - 1]
+        } else if (dataType.includes('公交站')) {
+            point.properties.name = "公交站" + index
+            point.properties.address = "京市朝阳区广顺南大街" + index + "号"
+            point.properties.route = "公交线路" + index
+        } else if (dataType.includes('公交线路')) {
+            point.properties.name = "公交线路" + index
+        } else if (dataType.includes('地铁站')) {
+            point.properties.name = "阜通站"
+            point.properties.address = "京市朝阳区广顺南大街1号"
+            point.properties.route = "14号线"
+        } else if (dataType.includes('地铁线路')) {
+            point.properties.name = "14号线"
+        } else if (dataType.includes('停车场') || dataType.includes('充电桩') || dataType.includes('客运站') || dataType.includes('火车站')) {
+            const dataTypes = dataType.split('~')
+            point.properties.name = dataTypes[dataTypes.length - 1] + index
+            point.properties.address = "京市朝阳区广顺南大街" + index + "号"
+        }
     });
     return pointsInsidePolygon;
 }
 
 const typeInfos = ["基础配套~区域特征~住宅区",
-    "基础配套~区域特征~平均房价",
     "基础配套~区域特征~写字楼",
-    "基础配套~区域特征~租金",
     "基础配套~配套设施~商圈",
     "基础配套~配套设施~学校",
     "基础配套~配套设施~医院",

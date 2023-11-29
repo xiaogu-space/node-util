@@ -4,5551 +4,6444 @@
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~住宅区"
+        "dataType": "基础配套~区域特征~住宅区",
+        "name": "小区0",
+        "price": 7.8,
+        "houseNum": 2600
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4706108091536,
-          39.990807876691974
+          116.46622548920193,
+          39.99433219703728
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~住宅区"
+        "dataType": "基础配套~区域特征~住宅区",
+        "name": "小区1",
+        "price": 7.8,
+        "houseNum": 2600
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46953934937308,
-          39.9895000952846
+          116.46807923025469,
+          39.99268585967547
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~住宅区"
+        "dataType": "基础配套~区域特征~住宅区",
+        "name": "小区2",
+        "price": 7.8,
+        "houseNum": 2600
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46225494692673,
-          39.993905838571045
+          116.46613314193614,
+          39.99044756203184
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~住宅区"
+        "dataType": "基础配套~区域特征~住宅区",
+        "name": "小区3",
+        "price": 7.8,
+        "houseNum": 2600
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4631224026684,
-          39.993697619472215
+          116.46299382293248,
+          39.994052514042686
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~住宅区"
+        "dataType": "基础配套~区域特征~住宅区",
+        "name": "小区4",
+        "price": 7.8,
+        "houseNum": 2600
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46446395256051,
-          39.98825676074821
+          116.46597395269649,
+          39.98700419295952
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~住宅区"
+        "dataType": "基础配套~区域特征~住宅区",
+        "name": "小区5",
+        "price": 7.8,
+        "houseNum": 2600
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46771865547456,
-          39.99245588715517
+          116.4597132891533,
+          39.9905284901312
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~住宅区"
+        "dataType": "基础配套~区域特征~住宅区",
+        "name": "小区6",
+        "price": 7.8,
+        "houseNum": 2600
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46036162703898,
-          39.992948862096526
+          116.46377207732654,
+          39.98903098797946
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~住宅区"
+        "dataType": "基础配套~区域特征~住宅区",
+        "name": "小区7",
+        "price": 7.8,
+        "houseNum": 2600
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46087460373975,
-          39.98830024673654
+          116.46787348071275,
+          39.99355920967207
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~平均房价"
+        "dataType": "基础配套~区域特征~写字楼",
+        "name": "写字楼0",
+        "rent": 3,
+        "area": 700
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46841100469605,
-          39.989023839694944
+          116.46005425722916,
+          39.99213305021999
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~平均房价"
+        "dataType": "基础配套~区域特征~写字楼",
+        "name": "写字楼1",
+        "rent": 3,
+        "area": 700
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46779158404007,
-          39.99394630641319
+          116.46784865593325,
+          39.994467370934416
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~平均房价"
+        "dataType": "基础配套~区域特征~写字楼",
+        "name": "写字楼2",
+        "rent": 3,
+        "area": 700
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46507898261113,
-          39.993261347747264
+          116.46989757393818,
+          39.991265330333796
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~平均房价"
+        "dataType": "基础配套~区域特征~写字楼",
+        "name": "写字楼3",
+        "rent": 3,
+        "area": 700
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.47021177217731,
-          39.992199822604974
+          116.46085127465895,
+          39.990696958122186
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~平均房价"
+        "dataType": "基础配套~区域特征~写字楼",
+        "name": "写字楼4",
+        "rent": 3,
+        "area": 700
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.47028710135592,
-          39.989129201668604
+          116.46478612426465,
+          39.99116280258602
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~平均房价"
+        "dataType": "基础配套~区域特征~写字楼",
+        "name": "写字楼5",
+        "rent": 3,
+        "area": 700
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46201503673193,
-          39.98789476377622
+          116.46629676501931,
+          39.9874391919654
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~平均房价"
+        "dataType": "基础配套~配套设施~商圈",
+        "name": "商圈0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "商圈"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46114539098738,
-          39.9926688474035
+          116.46878351549547,
+          39.987978044718304
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~写字楼"
+        "dataType": "基础配套~配套设施~商圈",
+        "name": "商圈1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "商圈"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46075816677462,
-          39.98931820794053
+          116.4638098532347,
+          39.98963409680297
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~写字楼"
+        "dataType": "基础配套~配套设施~商圈",
+        "name": "商圈2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "商圈"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46491812857276,
-          39.99463942729806
+          116.46274140402183,
+          39.988930003507754
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~写字楼"
+        "dataType": "基础配套~配套设施~商圈",
+        "name": "商圈3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "商圈"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46872616850061,
-          39.99004814772924
+          116.46337619326167,
+          39.990568219661945
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~写字楼"
+        "dataType": "基础配套~配套设施~商圈",
+        "name": "商圈4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "商圈"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4645880263431,
-          39.99408061338408
+          116.46334353292211,
+          39.99305928839999
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~写字楼"
+        "dataType": "基础配套~配套设施~商圈",
+        "name": "商圈5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "商圈"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46689537208435,
-          39.98948495855487
+          116.46513277308544,
+          39.99297465425817
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~写字楼"
+        "dataType": "基础配套~配套设施~学校",
+        "name": "学校0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "学校"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46467397168412,
-          39.99040777617295
+          116.46908023778082,
+          39.99202744105601
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~写字楼"
+        "dataType": "基础配套~配套设施~学校",
+        "name": "学校1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "学校"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46305310232174,
-          39.988113409083624
+          116.46744369213927,
+          39.99247207402559
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~写字楼"
+        "dataType": "基础配套~配套设施~学校",
+        "name": "学校2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "学校"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46007583322351,
-          39.98924650790125
+          116.46372101975271,
+          39.98756045542513
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~写字楼"
+        "dataType": "基础配套~配套设施~学校",
+        "name": "学校3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "学校"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.45985313941652,
-          39.99165128542348
+          116.46161026918692,
+          39.98867180275946
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~写字楼"
+        "dataType": "基础配套~配套设施~学校",
+        "name": "学校4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "学校"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4689550821078,
-          39.99252905814466
+          116.46690329894241,
+          39.98742057381763
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~租金"
+        "dataType": "基础配套~配套设施~学校",
+        "name": "学校5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "学校"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46282500920557,
-          39.99205231744797
+          116.46350336424149,
+          39.98744327713309
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~租金"
+        "dataType": "基础配套~配套设施~学校",
+        "name": "学校6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "学校"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46730223210464,
-          39.98724819562012
+          116.46587706808229,
+          39.9907597224715
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~租金"
+        "dataType": "基础配套~配套设施~学校",
+        "name": "学校7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "学校"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46488276995314,
-          39.99153690611686
+          116.46883670225006,
+          39.99140754099921
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~租金"
+        "dataType": "基础配套~配套设施~医院",
+        "name": "医院0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46598768779475,
-          39.99061049514512
+          116.46620240282195,
+          39.98734119775417
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~租金"
+        "dataType": "基础配套~配套设施~医院",
+        "name": "医院1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46605758656675,
-          39.99468624732467
+          116.46847474068228,
+          39.98737483463613
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~租金"
+        "dataType": "基础配套~配套设施~医院",
+        "name": "医院2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46708835723632,
-          39.987864997188076
+          116.4601363618348,
+          39.98841521670277
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~租金"
+        "dataType": "基础配套~配套设施~医院",
+        "name": "医院3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46591696404171,
-          39.98940467746216
+          116.46960038308538,
+          39.98792393337629
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~区域特征~租金"
+        "dataType": "基础配套~配套设施~医院",
+        "name": "医院4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46315976990834,
-          39.987547417976806
+          116.46247047594343,
+          39.987218280200125
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~商圈"
+        "dataType": "基础配套~配套设施~医院",
+        "name": "医院5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46133847644862,
-          39.98799497025126
+          116.46362815444911,
+          39.99400610297218
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~商圈"
+        "dataType": "基础配套~配套设施~医院",
+        "name": "医院6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46785499864357,
-          39.993084077139294
+          116.46194766269309,
+          39.98835235025334
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~商圈"
+        "dataType": "基础配套~配套设施~医院",
+        "name": "医院7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46706361121699,
-          39.99092569579886
+          116.45998276918488,
+          39.99129163013281
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~商圈"
+        "dataType": "基础配套~配套设施~医院",
+        "name": "医院8",
+        "address": "京市朝阳区广顺南大街",
+        "type": "医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46610792544662,
-          39.988078062551324
+          116.46610594411507,
+          39.98666296711448
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~商圈"
+        "dataType": "基础配套~配套设施~公司",
+        "name": "公司0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46688598930231,
-          39.98806365295507
+          116.46309511780686,
+          39.987311781310666
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~商圈"
+        "dataType": "基础配套~配套设施~公司",
+        "name": "公司1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46644578710452,
-          39.99053975985605
+          116.4672593965508,
+          39.993041506054766
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~商圈"
+        "dataType": "基础配套~配套设施~公司",
+        "name": "公司2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46466358200207,
-          39.98696402949341
+          116.46447554407723,
+          39.986929478232106
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~学校"
+        "dataType": "基础配套~配套设施~公司",
+        "name": "公司3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46221496421926,
-          39.99389657656013
+          116.46045732704718,
+          39.98914675831479
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~学校"
+        "dataType": "基础配套~配套设施~公司",
+        "name": "公司4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46365959730396,
-          39.9868374086496
+          116.46758213783572,
+          39.989425275667045
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~学校"
+        "dataType": "基础配套~配套设施~公司",
+        "name": "公司5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46628564079946,
-          39.988198412139255
+          116.46044164827654,
+          39.98987108790247
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~学校"
+        "dataType": "基础配套~配套设施~酒店",
+        "name": "酒店0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "酒店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46967186701696,
-          39.98960701977891
+          116.46639977590367,
+          39.994578631694644
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~学校"
+        "dataType": "基础配套~配套设施~酒店",
+        "name": "酒店1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "酒店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46378479931454,
-          39.99375157929541
+          116.47013081519513,
+          39.99243048120455
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~学校"
+        "dataType": "基础配套~配套设施~酒店",
+        "name": "酒店2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "酒店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4602732759025,
-          39.99152326896029
+          116.4692013774014,
+          39.990162837191846
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~学校"
+        "dataType": "基础配套~配套设施~酒店",
+        "name": "酒店3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "酒店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46290972757369,
-          39.98672246798898
+          116.46679439644527,
+          39.99323123205407
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~学校"
+        "dataType": "基础配套~配套设施~酒店",
+        "name": "酒店4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "酒店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46153538248925,
-          39.98789402196903
+          116.46412923510329,
+          39.99493076192166
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~学校"
+        "dataType": "基础配套~配套设施~酒店",
+        "name": "酒店5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "酒店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.47066871458995,
-          39.99170704759498
+          116.46312860864732,
+          39.99394057529295
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~医院"
+        "dataType": "基础配套~配套设施~酒店",
+        "name": "酒店6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "酒店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46806158970143,
-          39.988378451906904
+          116.46909875909232,
+          39.99305479916006
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~医院"
+        "dataType": "基础配套~配套设施~金融",
+        "name": "金融0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "金融"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46342989889104,
-          39.99179721749487
+          116.46317463076839,
+          39.98902179792687
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~医院"
+        "dataType": "基础配套~配套设施~金融",
+        "name": "金融1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "金融"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46511828422558,
-          39.990326700171195
+          116.46661324374065,
+          39.989583131145594
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~医院"
+        "dataType": "基础配套~配套设施~金融",
+        "name": "金融2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "金融"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46287610193764,
-          39.98904828804347
+          116.46133612424971,
+          39.99243961862104
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~医院"
+        "dataType": "基础配套~配套设施~金融",
+        "name": "金融3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "金融"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46441819713793,
-          39.987528719268504
+          116.46206008112001,
+          39.99415730330105
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~医院"
+        "dataType": "基础配套~配套设施~金融",
+        "name": "金融4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "金融"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46592552684746,
-          39.99134487580052
+          116.4612367709158,
+          39.99276791945415
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~医院"
+        "dataType": "基础配套~配套设施~金融",
+        "name": "金融5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "金融"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46160161041989,
-          39.99267469717385
+          116.46372176381317,
+          39.989784822560566
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~医院"
+        "dataType": "基础配套~配套设施~商铺",
+        "name": "商铺0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "商铺"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46636254593776,
-          39.987920626375
+          116.4679254819566,
+          39.98990711494938
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~医院"
+        "dataType": "基础配套~配套设施~商铺",
+        "name": "商铺1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "商铺"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46727985877766,
-          39.99209979797783
+          116.4627315541036,
+          39.989685179871536
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~公司"
+        "dataType": "基础配套~配套设施~商铺",
+        "name": "商铺2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "商铺"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46539793047323,
-          39.98626955997267
+          116.4666820839334,
+          39.99343662420356
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~公司"
+        "dataType": "基础配套~配套设施~商铺",
+        "name": "商铺3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "商铺"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46820930503945,
-          39.99236592675898
+          116.4684756611538,
+          39.99263097919635
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~公司"
+        "dataType": "基础配套~配套设施~商铺",
+        "name": "商铺4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "商铺"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46165722722945,
-          39.989645075438304
+          116.46107781983073,
+          39.98825845407041
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~公司"
+        "dataType": "基础配套~配套设施~商铺",
+        "name": "商铺5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "商铺"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.45963111680538,
-          39.99146719369798
+          116.46246976404942,
+          39.98884506707906
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~公司"
+        "dataType": "基础配套~配套设施~商铺",
+        "name": "商铺6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "商铺"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4678761930556,
-          39.98795070640302
+          116.46674666242522,
+          39.98875634303544
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~公司"
+        "dataType": "基础配套~配套设施~商铺",
+        "name": "商铺7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "商铺"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4598907024964,
-          39.99265829025989
+          116.46256869343068,
+          39.991138059250055
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~公司"
+        "dataType": "基础配套~配套设施~餐饮",
+        "name": "餐饮0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "餐饮"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46976305800139,
-          39.9915745166091
+          116.46523910183288,
+          39.99406150213768
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~酒店"
+        "dataType": "基础配套~配套设施~餐饮",
+        "name": "餐饮1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "餐饮"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46529208008238,
-          39.99448727613504
+          116.46647389788043,
+          39.98853443037879
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~酒店"
+        "dataType": "基础配套~配套设施~餐饮",
+        "name": "餐饮2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "餐饮"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46750888128273,
-          39.99384767093739
+          116.4642022171626,
+          39.989906935759656
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~酒店"
+        "dataType": "基础配套~配套设施~餐饮",
+        "name": "餐饮3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "餐饮"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46708575603789,
-          39.987575698118796
+          116.45952142078023,
+          39.990450971935445
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~酒店"
+        "dataType": "基础配套~配套设施~餐饮",
+        "name": "餐饮4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "餐饮"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46911656307833,
-          39.98979259457392
+          116.46163887198652,
+          39.98716487803696
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~酒店"
+        "dataType": "基础配套~配套设施~餐饮",
+        "name": "餐饮5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "餐饮"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46464499216552,
-          39.986668403844355
+          116.46714311286128,
+          39.98650430630937
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~酒店"
+        "dataType": "基础配套~配套设施~餐饮",
+        "name": "餐饮6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "餐饮"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46854819812748,
-          39.987529984441146
+          116.45991601937739,
+          39.990330136141466
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~金融"
+        "dataType": "基础配套~交通概况~公交站",
+        "name": "公交站0",
+        "address": "京市朝阳区广顺南大街0号",
+        "route": "公交线路0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46746498611554,
-          39.98961380603771
+          116.4656765185404,
+          39.98977393871548
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~金融"
+        "dataType": "基础配套~交通概况~公交站",
+        "name": "公交站1",
+        "address": "京市朝阳区广顺南大街1号",
+        "route": "公交线路1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46314304834586,
-          39.98883664420812
+          116.46365035141376,
+          39.99181616844249
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~金融"
+        "dataType": "基础配套~交通概况~公交站",
+        "name": "公交站2",
+        "address": "京市朝阳区广顺南大街2号",
+        "route": "公交线路2"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46751020519491,
-          39.99441246960725
+          116.46655526038589,
+          39.990977960615595
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~金融"
+        "dataType": "基础配套~交通概况~公交站",
+        "name": "公交站3",
+        "address": "京市朝阳区广顺南大街3号",
+        "route": "公交线路3"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46471197749547,
-          39.99233194379273
+          116.4601454646116,
+          39.99079510865758
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~金融"
+        "dataType": "基础配套~交通概况~公交站",
+        "name": "公交站4",
+        "address": "京市朝阳区广顺南大街4号",
+        "route": "公交线路4"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46223474924479,
-          39.98678630080364
+          116.4659193211813,
+          39.99119304264922
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~金融"
+        "dataType": "基础配套~交通概况~公交站",
+        "name": "公交站5",
+        "address": "京市朝阳区广顺南大街5号",
+        "route": "公交线路5"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46547703807846,
-          39.9873057840874
+          116.46735059441572,
+          39.991978633311376
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~商铺"
+        "dataType": "基础配套~交通概况~公交站",
+        "name": "公交站6",
+        "address": "京市朝阳区广顺南大街6号",
+        "route": "公交线路6"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46592036925523,
-          39.993259827583316
+          116.46705853583535,
+          39.98746304591349
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~商铺"
+        "dataType": "基础配套~交通概况~公交站",
+        "name": "公交站7",
+        "address": "京市朝阳区广顺南大街7号",
+        "route": "公交线路7"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46098004775412,
-          39.99256664782702
+          116.46139856922998,
+          39.98996714908394
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~商铺"
+        "dataType": "基础配套~交通概况~公交线路",
+        "name": "公交线路0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4662071749769,
-          39.98701066249013
+          116.46816729384048,
+          39.99398866389018
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~商铺"
+        "dataType": "基础配套~交通概况~公交线路",
+        "name": "公交线路1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46749746188306,
-          39.99294699302305
+          116.46341157445227,
+          39.990590009262746
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~商铺"
+        "dataType": "基础配套~交通概况~公交线路",
+        "name": "公交线路2"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46471715812935,
-          39.9880221715869
+          116.46400599053415,
+          39.994636364243796
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~商铺"
+        "dataType": "基础配套~交通概况~公交线路",
+        "name": "公交线路3"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46249190695983,
-          39.98716272892742
+          116.46283540634113,
+          39.98824630598447
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~商铺"
+        "dataType": "基础配套~交通概况~公交线路",
+        "name": "公交线路4"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46245062048948,
-          39.99242041936394
+          116.46662291646685,
+          39.991331130855976
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~餐饮"
+        "dataType": "基础配套~交通概况~公交线路",
+        "name": "公交线路5"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46246705586448,
-          39.98921362203144
+          116.4645334404104,
+          39.99317480201292
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~餐饮"
+        "dataType": "基础配套~交通概况~公交线路",
+        "name": "公交线路6"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46373893571462,
-          39.992764071706226
+          116.4610317638507,
+          39.988941125664105
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~餐饮"
+        "dataType": "基础配套~交通概况~地铁站",
+        "name": "阜通站",
+        "address": "京市朝阳区广顺南大街1号",
+        "route": "14号线"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4599168361608,
-          39.99200951170767
+          116.46843007343756,
+          39.99212004234408
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~餐饮"
+        "dataType": "基础配套~交通概况~地铁站",
+        "name": "阜通站",
+        "address": "京市朝阳区广顺南大街1号",
+        "route": "14号线"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46646423587946,
-          39.99076471811038
+          116.46263397028727,
+          39.994267145532234
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~餐饮"
+        "dataType": "基础配套~交通概况~地铁站",
+        "name": "阜通站",
+        "address": "京市朝阳区广顺南大街1号",
+        "route": "14号线"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46716939655872,
-          39.98933798625366
+          116.47042019966823,
+          39.990873220330755
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~餐饮"
+        "dataType": "基础配套~交通概况~地铁站",
+        "name": "阜通站",
+        "address": "京市朝阳区广顺南大街1号",
+        "route": "14号线"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46508606955666,
-          39.992453198660066
+          116.46697685223988,
+          39.99211322555601
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~餐饮"
+        "dataType": "基础配套~交通概况~地铁站",
+        "name": "阜通站",
+        "address": "京市朝阳区广顺南大街1号",
+        "route": "14号线"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46009155720452,
-          39.99006775198489
+          116.46212869122733,
+          39.99341111659901
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~餐饮"
+        "dataType": "基础配套~交通概况~地铁站",
+        "name": "阜通站",
+        "address": "京市朝阳区广顺南大街1号",
+        "route": "14号线"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.47006524095825,
-          39.99228926707373
+          116.46657964714676,
+          39.98849192345264
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~餐饮"
+        "dataType": "基础配套~交通概况~地铁线路",
+        "name": "14号线"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46484074072977,
-          39.994415699078786
+          116.46164745425513,
+          39.98971531032361
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~配套设施~餐饮"
+        "dataType": "基础配套~交通概况~地铁线路",
+        "name": "14号线"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46451706000636,
-          39.98821240801306
+          116.47028971200099,
+          39.9895968184337
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~公交站"
+        "dataType": "基础配套~交通概况~地铁线路",
+        "name": "14号线"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46751655386167,
-          39.98856235225957
+          116.4626558386407,
+          39.993785209673945
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~公交站"
+        "dataType": "基础配套~交通概况~地铁线路",
+        "name": "14号线"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46875257783874,
-          39.99194288666515
+          116.46844023786562,
+          39.98855144536294
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~公交站"
+        "dataType": "基础配套~交通概况~地铁线路",
+        "name": "14号线"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46272290214404,
-          39.994672811540745
+          116.46379255092936,
+          39.986885446897475
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~公交站"
+        "dataType": "基础配套~交通概况~地铁线路",
+        "name": "14号线"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46505260852366,
-          39.99394777540297
+          116.46105468072749,
+          39.98896005891287
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~公交站"
+        "dataType": "基础配套~交通概况~地铁线路",
+        "name": "14号线"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4667196175725,
-          39.9869565459348
+          116.46699504442674,
+          39.98759327741298
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~公交站"
+        "dataType": "基础配套~交通概况~地铁线路",
+        "name": "14号线"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46806924924505,
-          39.98867726488442
+          116.46190468452923,
+          39.99064709863941
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~公交站"
+        "dataType": "基础配套~交通概况~停车场",
+        "name": "停车场0",
+        "address": "京市朝阳区广顺南大街0号"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46850956709437,
-          39.99352452836472
+          116.46703201224632,
+          39.992607198347685
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~公交站"
+        "dataType": "基础配套~交通概况~停车场",
+        "name": "停车场1",
+        "address": "京市朝阳区广顺南大街1号"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.47065447783679,
-          39.9918468360677
+          116.4661938134531,
+          39.99504810099292
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~公交站"
+        "dataType": "基础配套~交通概况~停车场",
+        "name": "停车场2",
+        "address": "京市朝阳区广顺南大街2号"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46645707126751,
-          39.99002435585349
+          116.46270720565292,
+          39.994726573084876
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~公交线路"
+        "dataType": "基础配套~交通概况~停车场",
+        "name": "停车场3",
+        "address": "京市朝阳区广顺南大街3号"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46062504534862,
-          39.99261760787359
+          116.46263690982403,
+          39.98926583637526
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~公交线路"
+        "dataType": "基础配套~交通概况~停车场",
+        "name": "停车场4",
+        "address": "京市朝阳区广顺南大街4号"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46181697524388,
-          39.992060505749286
+          116.46597464415582,
+          39.987014365625505
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~公交线路"
+        "dataType": "基础配套~交通概况~停车场",
+        "name": "停车场5",
+        "address": "京市朝阳区广顺南大街5号"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46229851906635,
-          39.992340326596576
+          116.4612237336183,
+          39.988464620846585
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~公交线路"
+        "dataType": "基础配套~交通概况~停车场",
+        "name": "停车场6",
+        "address": "京市朝阳区广顺南大街6号"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46505636043825,
-          39.989466815748294
+          116.46211805945354,
+          39.99067907643266
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~公交线路"
+        "dataType": "基础配套~交通概况~充电桩",
+        "name": "充电桩0",
+        "address": "京市朝阳区广顺南大街0号"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46223292040567,
-          39.98953244483055
+          116.46351796832204,
+          39.99438423883632
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~公交线路"
+        "dataType": "基础配套~交通概况~充电桩",
+        "name": "充电桩1",
+        "address": "京市朝阳区广顺南大街1号"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4623959362857,
-          39.99279221065304
+          116.47011846796413,
+          39.99243817930975
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~公交线路"
+        "dataType": "基础配套~交通概况~充电桩",
+        "name": "充电桩2",
+        "address": "京市朝阳区广顺南大街2号"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4674050100285,
-          39.99239612296686
+          116.46318838054128,
+          39.991742074559966
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~公交线路"
+        "dataType": "基础配套~交通概况~充电桩",
+        "name": "充电桩3",
+        "address": "京市朝阳区广顺南大街3号"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46742519306775,
-          39.99385274150553
+          116.46341840698227,
+          39.99355054453579
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~公交线路"
+        "dataType": "基础配套~交通概况~充电桩",
+        "name": "充电桩4",
+        "address": "京市朝阳区广顺南大街4号"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46584239658051,
-          39.99073044143555
+          116.46438209800745,
+          39.994776813808556
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~公交线路"
+        "dataType": "基础配套~交通概况~充电桩",
+        "name": "充电桩5",
+        "address": "京市朝阳区广顺南大街5号"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46283471274606,
-          39.99113530521295
+          116.46490575849374,
+          39.99345251645628
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~地铁站"
+        "dataType": "基础配套~交通概况~充电桩",
+        "name": "充电桩6",
+        "address": "京市朝阳区广顺南大街6号"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46854389977047,
-          39.990235218399384
+          116.46483952719387,
+          39.98717756964761
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~地铁站"
+        "dataType": "基础配套~交通概况~客运站",
+        "name": "客运站0",
+        "address": "京市朝阳区广顺南大街0号"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46814557296973,
-          39.988680471615915
+          116.46965726947622,
+          39.98900881538805
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~地铁站"
+        "dataType": "基础配套~交通概况~客运站",
+        "name": "客运站1",
+        "address": "京市朝阳区广顺南大街1号"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46642818738053,
-          39.98738779632369
+          116.46106757072181,
+          39.9924519897206
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~地铁站"
+        "dataType": "基础配套~交通概况~客运站",
+        "name": "客运站2",
+        "address": "京市朝阳区广顺南大街2号"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46076334465019,
-          39.98834704758833
+          116.45993257465106,
+          39.98914274322471
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~地铁站"
+        "dataType": "基础配套~交通概况~客运站",
+        "name": "客运站3",
+        "address": "京市朝阳区广顺南大街3号"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46315575836846,
-          39.99433822017439
+          116.46183584106643,
+          39.99175584778382
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~地铁站"
+        "dataType": "基础配套~交通概况~客运站",
+        "name": "客运站4",
+        "address": "京市朝阳区广顺南大街4号"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46521551446571,
-          39.99062471854398
+          116.46089622535166,
+          39.99158852578233
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~地铁站"
+        "dataType": "基础配套~交通概况~客运站",
+        "name": "客运站5",
+        "address": "京市朝阳区广顺南大街5号"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46218803484498,
-          39.99317460118209
+          116.46742042598562,
+          39.990407735401455
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~地铁站"
+        "dataType": "基础配套~交通概况~客运站",
+        "name": "客运站6",
+        "address": "京市朝阳区广顺南大街6号"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46457725318206,
-          39.98661743794784
+          116.4617137567961,
+          39.99115668722761
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~地铁站"
+        "dataType": "基础配套~交通概况~客运站",
+        "name": "客运站7",
+        "address": "京市朝阳区广顺南大街7号"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46041527649699,
-          39.98911096466614
+          116.47037384908714,
+          39.989028951203856
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~地铁线路"
+        "dataType": "周边业态~美食餐饮~中餐厅",
+        "name": "中餐厅0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "中餐厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46565540510193,
-          39.98690859343025
+          116.46735172432605,
+          39.98876514428444
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~地铁线路"
+        "dataType": "周边业态~美食餐饮~中餐厅",
+        "name": "中餐厅1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "中餐厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46653999234066,
-          39.99236541979984
+          116.46008238617956,
+          39.99027511375197
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~地铁线路"
+        "dataType": "周边业态~美食餐饮~中餐厅",
+        "name": "中餐厅2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "中餐厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4637713691565,
-          39.992373017459435
+          116.46255238502258,
+          39.987489970508015
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~地铁线路"
+        "dataType": "周边业态~美食餐饮~中餐厅",
+        "name": "中餐厅3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "中餐厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46591109603314,
-          39.98963741442009
+          116.46285199288575,
+          39.99236210699851
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~地铁线路"
+        "dataType": "周边业态~美食餐饮~中餐厅",
+        "name": "中餐厅4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "中餐厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4607364102095,
-          39.98786721522523
+          116.46550782877249,
+          39.99340820729233
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~地铁线路"
+        "dataType": "周边业态~美食餐饮~中餐厅",
+        "name": "中餐厅5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "中餐厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4642703051315,
-          39.98751903527894
+          116.46780458216647,
+          39.99328787525402
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~地铁线路"
+        "dataType": "周边业态~美食餐饮~快餐厅",
+        "name": "快餐厅0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "快餐厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46729018722368,
-          39.99353116470103
+          116.46756924373928,
+          39.9909186294756
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~停车场"
+        "dataType": "周边业态~美食餐饮~快餐厅",
+        "name": "快餐厅1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "快餐厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46695897656122,
-          39.988614037816674
+          116.46712652582654,
+          39.98897254711741
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~停车场"
+        "dataType": "周边业态~美食餐饮~快餐厅",
+        "name": "快餐厅2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "快餐厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46720042879379,
-          39.99464327343707
+          116.46352996541364,
+          39.99236788351318
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~停车场"
+        "dataType": "周边业态~美食餐饮~快餐厅",
+        "name": "快餐厅3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "快餐厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46684960613035,
-          39.990643093699575
+          116.46703017324101,
+          39.989796013219355
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~停车场"
+        "dataType": "周边业态~美食餐饮~快餐厅",
+        "name": "快餐厅4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "快餐厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46524305466703,
-          39.9903774511298
+          116.46512591749207,
+          39.99397442902725
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~停车场"
+        "dataType": "周边业态~美食餐饮~快餐厅",
+        "name": "快餐厅5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "快餐厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46492214196374,
-          39.98663432606069
+          116.46634315846924,
+          39.98856605992326
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~停车场"
+        "dataType": "周边业态~美食餐饮~快餐厅",
+        "name": "快餐厅6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "快餐厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4608668978397,
-          39.99241111317533
+          116.46154544780833,
+          39.98812177269852
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~充电桩"
+        "dataType": "周边业态~美食餐饮~快餐厅",
+        "name": "快餐厅7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "快餐厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4663458122062,
-          39.99420477332875
+          116.46838919321192,
+          39.99090502683157
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~充电桩"
+        "dataType": "周边业态~美食餐饮~餐饮相关场所",
+        "name": "餐饮相关场所0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "餐饮相关场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46713908941241,
-          39.993511287208975
+          116.4631556292481,
+          39.99338079296714
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~充电桩"
+        "dataType": "周边业态~美食餐饮~餐饮相关场所",
+        "name": "餐饮相关场所1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "餐饮相关场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.47020644409683,
-          39.991600170193365
+          116.46120344333939,
+          39.98962093177337
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~充电桩"
+        "dataType": "周边业态~美食餐饮~餐饮相关场所",
+        "name": "餐饮相关场所2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "餐饮相关场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.47009294035601,
-          39.9893433405174
+          116.46521967593208,
+          39.989973956792774
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~充电桩"
+        "dataType": "周边业态~美食餐饮~餐饮相关场所",
+        "name": "餐饮相关场所3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "餐饮相关场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4676455762213,
-          39.99148821221985
+          116.46345859843449,
+          39.99146822025558
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~充电桩"
+        "dataType": "周边业态~美食餐饮~餐饮相关场所",
+        "name": "餐饮相关场所4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "餐饮相关场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46339321161452,
-          39.99342906230574
+          116.46434869641355,
+          39.98765371213324
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~充电桩"
+        "dataType": "周边业态~美食餐饮~餐饮相关场所",
+        "name": "餐饮相关场所5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "餐饮相关场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46518974062133,
-          39.98632234818442
+          116.46497641002591,
+          39.987491234416545
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~充电桩"
+        "dataType": "周边业态~美食餐饮~餐饮相关场所",
+        "name": "餐饮相关场所6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "餐饮相关场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46473288665946,
-          39.98893222990968
+          116.46927044180505,
+          39.99236641054349
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~充电桩"
+        "dataType": "周边业态~美食餐饮~餐饮相关场所",
+        "name": "餐饮相关场所7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "餐饮相关场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46687837372174,
-          39.98966900866816
+          116.46344441785742,
+          39.98919503279128
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~客运站"
+        "dataType": "周边业态~美食餐饮~餐饮相关场所",
+        "name": "餐饮相关场所8",
+        "address": "京市朝阳区广顺南大街",
+        "type": "餐饮相关场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46456257325569,
-          39.98824390394604
+          116.46831506707169,
+          39.991913882903944
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~客运站"
+        "dataType": "周边业态~美食餐饮~糕饼店",
+        "name": "糕饼店0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "糕饼店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4649602731485,
-          39.987020332918206
+          116.4647072616601,
+          39.98685428586628
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~客运站"
+        "dataType": "周边业态~美食餐饮~糕饼店",
+        "name": "糕饼店1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "糕饼店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46335142755763,
-          39.98935734278241
+          116.46486162747296,
+          39.990891437023315
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~客运站"
+        "dataType": "周边业态~美食餐饮~糕饼店",
+        "name": "糕饼店2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "糕饼店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46340629437582,
-          39.989572025850215
+          116.4635118290694,
+          39.99056367976517
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~客运站"
+        "dataType": "周边业态~美食餐饮~糕饼店",
+        "name": "糕饼店3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "糕饼店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46910570089864,
-          39.9932670704578
+          116.46211446104934,
+          39.987196199794454
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~客运站"
+        "dataType": "周边业态~美食餐饮~糕饼店",
+        "name": "糕饼店4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "糕饼店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.45964359706642,
-          39.99237970911245
+          116.46033114484199,
+          39.989368186347754
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~客运站"
+        "dataType": "周边业态~美食餐饮~糕饼店",
+        "name": "糕饼店5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "糕饼店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46533383198991,
-          39.993664539748146
+          116.46237016920908,
+          39.9922383337823
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~客运站"
+        "dataType": "周边业态~美食餐饮~糕饼店",
+        "name": "糕饼店6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "糕饼店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.47044054001472,
-          39.98993545175548
+          116.4631431971343,
+          39.99074532444151
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "基础配套~交通概况~客运站"
+        "dataType": "周边业态~美食餐饮~糕饼店",
+        "name": "糕饼店7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "糕饼店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46246679276696,
-          39.99360581775292
+          116.46242113318718,
+          39.99354671801525
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~中餐厅"
+        "dataType": "周边业态~美食餐饮~糕饼店",
+        "name": "糕饼店8",
+        "address": "京市朝阳区广顺南大街",
+        "type": "糕饼店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4682868510114,
-          39.987150592278674
+          116.46101546892228,
+          39.99091285905839
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~中餐厅"
+        "dataType": "周边业态~美食餐饮~咖啡厅",
+        "name": "咖啡厅0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "咖啡厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46382350356974,
-          39.98866565465476
+          116.46601029248421,
+          39.99068958230529
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~中餐厅"
+        "dataType": "周边业态~美食餐饮~咖啡厅",
+        "name": "咖啡厅1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "咖啡厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46644304432354,
-          39.98691725625203
+          116.46184534362044,
+          39.990399243671234
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~中餐厅"
+        "dataType": "周边业态~美食餐饮~咖啡厅",
+        "name": "咖啡厅2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "咖啡厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46533849989342,
-          39.99155350960585
+          116.47087889921352,
+          39.99010854016426
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~中餐厅"
+        "dataType": "周边业态~美食餐饮~咖啡厅",
+        "name": "咖啡厅3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "咖啡厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46906197157878,
-          39.987491428612586
+          116.46621555691192,
+          39.9900512792162
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~中餐厅"
+        "dataType": "周边业态~美食餐饮~咖啡厅",
+        "name": "咖啡厅4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "咖啡厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46606873408984,
-          39.98717002667582
+          116.46038190035398,
+          39.988375207947
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~中餐厅"
+        "dataType": "周边业态~美食餐饮~咖啡厅",
+        "name": "咖啡厅5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "咖啡厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46880288585865,
-          39.994140590127195
+          116.46690686155992,
+          39.98779481178654
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~快餐厅"
+        "dataType": "周边业态~美食餐饮~咖啡厅",
+        "name": "咖啡厅6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "咖啡厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46437167570173,
-          39.988169568934
+          116.459791330389,
+          39.98970286712592
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~快餐厅"
+        "dataType": "周边业态~美食餐饮~咖啡厅",
+        "name": "咖啡厅7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "咖啡厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46607649083062,
-          39.987849290892285
+          116.46803377163047,
+          39.993239474258004
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~快餐厅"
+        "dataType": "周边业态~美食餐饮~外国餐厅",
+        "name": "外国餐厅0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "外国餐厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46169282144784,
-          39.9912935303013
+          116.46809253730724,
+          39.993078378669736
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~快餐厅"
+        "dataType": "周边业态~美食餐饮~外国餐厅",
+        "name": "外国餐厅1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "外国餐厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46104741197209,
-          39.991548534993015
+          116.46239209855594,
+          39.99223614954434
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~快餐厅"
+        "dataType": "周边业态~美食餐饮~外国餐厅",
+        "name": "外国餐厅2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "外国餐厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.45981856931414,
-          39.989576083708
+          116.4669551450867,
+          39.98833332635056
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~快餐厅"
+        "dataType": "周边业态~美食餐饮~外国餐厅",
+        "name": "外国餐厅3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "外国餐厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46324732034428,
-          39.98764863899293
+          116.46249305083441,
+          39.98697919240331
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~快餐厅"
+        "dataType": "周边业态~美食餐饮~外国餐厅",
+        "name": "外国餐厅4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "外国餐厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4671626557576,
-          39.99118432448742
+          116.46637236363851,
+          39.99160127794852
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~快餐厅"
+        "dataType": "周边业态~美食餐饮~外国餐厅",
+        "name": "外国餐厅5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "外国餐厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46151439136038,
-          39.988214959611796
+          116.46248466625067,
+          39.98815552645357
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~快餐厅"
+        "dataType": "周边业态~美食餐饮~外国餐厅",
+        "name": "外国餐厅6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "外国餐厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4623371044872,
-          39.98798581713469
+          116.46340817646056,
+          39.99381805580632
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~快餐厅"
+        "dataType": "周边业态~美食餐饮~外国餐厅",
+        "name": "外国餐厅7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "外国餐厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46918222317167,
-          39.98846566299266
+          116.46478683173977,
+          39.992910360384904
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~餐饮相关场所"
+        "dataType": "周边业态~美食餐饮~外国餐厅",
+        "name": "外国餐厅8",
+        "address": "京市朝阳区广顺南大街",
+        "type": "外国餐厅"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46094531631613,
-          39.98817787665062
+          116.46263056459806,
+          39.98759168291133
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~餐饮相关场所"
+        "dataType": "周边业态~美食餐饮~冷饮店",
+        "name": "冷饮店0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "冷饮店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46592993973067,
-          39.98655928655643
+          116.46663409584339,
+          39.990900015186234
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~餐饮相关场所"
+        "dataType": "周边业态~美食餐饮~冷饮店",
+        "name": "冷饮店1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "冷饮店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46944699970201,
-          39.9907633205718
+          116.47063413109773,
+          39.99106279609255
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~餐饮相关场所"
+        "dataType": "周边业态~美食餐饮~冷饮店",
+        "name": "冷饮店2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "冷饮店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46601780324715,
-          39.99088177051864
+          116.46854201726755,
+          39.987242309630076
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~餐饮相关场所"
+        "dataType": "周边业态~美食餐饮~冷饮店",
+        "name": "冷饮店3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "冷饮店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46380517377503,
-          39.98692618212259
+          116.46712246952539,
+          39.990698014004494
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~餐饮相关场所"
+        "dataType": "周边业态~美食餐饮~冷饮店",
+        "name": "冷饮店4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "冷饮店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46551024891266,
-          39.9939569953225
+          116.46295746751396,
+          39.993099318657045
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~糕饼店"
+        "dataType": "周边业态~美食餐饮~冷饮店",
+        "name": "冷饮店5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "冷饮店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46318313694385,
-          39.994482128585915
+          116.46527500249891,
+          39.99456873081862
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~糕饼店"
+        "dataType": "周边业态~美食餐饮~冷饮店",
+        "name": "冷饮店6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "冷饮店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46749676226288,
-          39.992803532770296
+          116.46206880216164,
+          39.99333361589744
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~糕饼店"
+        "dataType": "周边业态~美食餐饮~冷饮店",
+        "name": "冷饮店7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "冷饮店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46976239078816,
-          39.991937164849084
+          116.46926650990343,
+          39.987999416917056
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~糕饼店"
+        "dataType": "周边业态~美食餐饮~其他",
+        "name": "其他0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "其他"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4686220014913,
-          39.992722302079294
+          116.46685473839314,
+          39.99108633136391
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~糕饼店"
+        "dataType": "周边业态~美食餐饮~其他",
+        "name": "其他1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "其他"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46646455347654,
-          39.99036839624474
+          116.46356784120916,
+          39.98702734144093
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~糕饼店"
+        "dataType": "周边业态~美食餐饮~其他",
+        "name": "其他2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "其他"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46185810109452,
-          39.9907299617866
+          116.46048115367599,
+          39.99281269436495
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~糕饼店"
+        "dataType": "周边业态~美食餐饮~其他",
+        "name": "其他3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "其他"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46122151359535,
-          39.9886054882917
+          116.46720000045043,
+          39.99028696015237
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~糕饼店"
+        "dataType": "周边业态~美食餐饮~其他",
+        "name": "其他4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "其他"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46327972994158,
-          39.99301713707465
+          116.4623795063226,
+          39.98731496807453
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~糕饼店"
+        "dataType": "周边业态~美食餐饮~其他",
+        "name": "其他5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "其他"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46458868896195,
-          39.99402420953084
+          116.46258608978695,
+          39.99312615008457
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~咖啡厅"
+        "dataType": "周边业态~生活服务~生活服务场所",
+        "name": "生活服务场所0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "生活服务场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46660443157012,
-          39.98652380202623
+          116.46921456494333,
+          39.991323000623794
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~咖啡厅"
+        "dataType": "周边业态~生活服务~生活服务场所",
+        "name": "生活服务场所1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "生活服务场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46293555738059,
-          39.99227882703893
+          116.46201832942116,
+          39.98827714419995
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~咖啡厅"
+        "dataType": "周边业态~生活服务~生活服务场所",
+        "name": "生活服务场所2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "生活服务场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46384741152565,
-          39.98778063051723
+          116.46607650581018,
+          39.99245898320382
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~咖啡厅"
+        "dataType": "周边业态~生活服务~生活服务场所",
+        "name": "生活服务场所3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "生活服务场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46258366557547,
-          39.99335657769874
+          116.46692434235035,
+          39.989416511485175
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~咖啡厅"
+        "dataType": "周边业态~生活服务~生活服务场所",
+        "name": "生活服务场所4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "生活服务场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46964352767297,
-          39.99313900021786
+          116.46385256506274,
+          39.99308645649159
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~咖啡厅"
+        "dataType": "周边业态~生活服务~生活服务场所",
+        "name": "生活服务场所5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "生活服务场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46111557088659,
-          39.99061080151229
+          116.46598077927567,
+          39.98760967448186
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~咖啡厅"
+        "dataType": "周边业态~生活服务~生活服务场所",
+        "name": "生活服务场所6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "生活服务场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46399364228213,
-          39.98732299236016
+          116.46676328382947,
+          39.992938221510485
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~外国餐厅"
+        "dataType": "周边业态~生活服务~美容美发店",
+        "name": "美容美发店0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "美容美发店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46536383297979,
-          39.991312842739845
+          116.46825757685104,
+          39.989751133454746
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~外国餐厅"
+        "dataType": "周边业态~生活服务~美容美发店",
+        "name": "美容美发店1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "美容美发店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46373589366617,
-          39.99398715976017
+          116.46118595118013,
+          39.992127500882674
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~外国餐厅"
+        "dataType": "周边业态~生活服务~美容美发店",
+        "name": "美容美发店2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "美容美发店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4629066085369,
-          39.992823498438774
+          116.46941856926489,
+          39.99356937090811
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~外国餐厅"
+        "dataType": "周边业态~生活服务~美容美发店",
+        "name": "美容美发店3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "美容美发店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.467646614432,
-          39.98925678875111
+          116.46957904951996,
+          39.98818846095072
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~外国餐厅"
+        "dataType": "周边业态~生活服务~美容美发店",
+        "name": "美容美发店4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "美容美发店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4667235003806,
-          39.98655137741826
+          116.45975581939233,
+          39.98970288121211
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~外国餐厅"
+        "dataType": "周边业态~生活服务~美容美发店",
+        "name": "美容美发店5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "美容美发店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.45991298424428,
-          39.99115642010028
+          116.46806039781889,
+          39.99227975102213
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~外国餐厅"
+        "dataType": "周边业态~生活服务~美容美发店",
+        "name": "美容美发店6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "美容美发店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46967949743618,
-          39.991701652447354
+          116.46076783450422,
+          39.989747275311146
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~外国餐厅"
+        "dataType": "周边业态~生活服务~美容美发店",
+        "name": "美容美发店7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "美容美发店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46779911113,
-          39.98837325798541
+          116.46457440193093,
+          39.99281298940378
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~外国餐厅"
+        "dataType": "周边业态~生活服务~美容美发店",
+        "name": "美容美发店8",
+        "address": "京市朝阳区广顺南大街",
+        "type": "美容美发店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46744072072973,
-          39.9937232720372
+          116.46274719576424,
+          39.99438306610856
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~冷饮店"
+        "dataType": "周边业态~生活服务~中介机构",
+        "name": "中介机构0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "中介机构"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46641385897846,
-          39.99059938098927
+          116.46471381185755,
+          39.98734619886059
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~冷饮店"
+        "dataType": "周边业态~生活服务~中介机构",
+        "name": "中介机构1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "中介机构"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4613045099792,
-          39.9906807180335
+          116.46590852792774,
+          39.9912385988776
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~冷饮店"
+        "dataType": "周边业态~生活服务~中介机构",
+        "name": "中介机构2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "中介机构"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46920779394284,
-          39.990821113455134
+          116.46329801906636,
+          39.988044671972276
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~冷饮店"
+        "dataType": "周边业态~生活服务~中介机构",
+        "name": "中介机构3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "中介机构"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46866942719856,
-          39.992562998534645
+          116.46611396933615,
+          39.99182193437712
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~冷饮店"
+        "dataType": "周边业态~生活服务~中介机构",
+        "name": "中介机构4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "中介机构"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46459478030117,
-          39.99150297525192
+          116.46551460949124,
+          39.99123784614007
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~冷饮店"
+        "dataType": "周边业态~生活服务~中介机构",
+        "name": "中介机构5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "中介机构"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46388949652388,
-          39.99142969465071
+          116.45934212584812,
+          39.98991152854216
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~其他"
+        "dataType": "周边业态~生活服务~中介机构",
+        "name": "中介机构6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "中介机构"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46950951049466,
-          39.99228707230605
+          116.46209330799029,
+          39.986901414022505
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~其他"
+        "dataType": "周边业态~生活服务~中介机构",
+        "name": "中介机构7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "中介机构"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46879705181571,
-          39.98898152641917
+          116.4648374410576,
+          39.99516575741946
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~其他"
+        "dataType": "周边业态~生活服务~中介机构",
+        "name": "中介机构8",
+        "address": "京市朝阳区广顺南大街",
+        "type": "中介机构"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46578490815146,
-          39.990023629773766
+          116.46200238259645,
+          39.991754662492276
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~其他"
+        "dataType": "周边业态~生活服务~洗浴推拿场所",
+        "name": "洗浴推拿场所0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "洗浴推拿场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46751885274644,
-          39.988915711642
+          116.46534444629216,
+          39.988335588599966
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~其他"
+        "dataType": "周边业态~生活服务~洗浴推拿场所",
+        "name": "洗浴推拿场所1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "洗浴推拿场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46421234430282,
-          39.99489190949248
+          116.4694928116687,
+          39.98926484336898
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~其他"
+        "dataType": "周边业态~生活服务~洗浴推拿场所",
+        "name": "洗浴推拿场所2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "洗浴推拿场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46656631081714,
-          39.99217304377495
+          116.4676179831415,
+          39.99395329405617
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~其他"
+        "dataType": "周边业态~生活服务~洗浴推拿场所",
+        "name": "洗浴推拿场所3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "洗浴推拿场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46217368939645,
-          39.99171711946128
+          116.46432692197868,
+          39.98893681905567
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~美食餐饮~其他"
+        "dataType": "周边业态~生活服务~洗浴推拿场所",
+        "name": "洗浴推拿场所4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "洗浴推拿场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46897760326743,
-          39.99365584445433
+          116.4614866736863,
+          39.98852294460728
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~生活服务场所"
+        "dataType": "周边业态~生活服务~洗浴推拿场所",
+        "name": "洗浴推拿场所5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "洗浴推拿场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46378447760539,
-          39.99233406406145
+          116.46713202769173,
+          39.98942992089778
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~生活服务场所"
+        "dataType": "周边业态~生活服务~洗浴推拿场所",
+        "name": "洗浴推拿场所6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "洗浴推拿场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46833082962834,
-          39.98983830949413
+          116.46910959962148,
+          39.99177820544315
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~生活服务场所"
+        "dataType": "周边业态~生活服务~洗浴推拿场所",
+        "name": "洗浴推拿场所7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "洗浴推拿场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46144391030874,
-          39.98972521140775
+          116.46812854046571,
+          39.99197897447112
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~生活服务场所"
+        "dataType": "周边业态~生活服务~物流速递",
+        "name": "物流速递0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "物流速递"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46255547561398,
-          39.98696191101907
+          116.46325120168046,
+          39.988087728913456
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~生活服务场所"
+        "dataType": "周边业态~生活服务~物流速递",
+        "name": "物流速递1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "物流速递"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46182069497313,
-          39.99392431576955
+          116.46291578144967,
+          39.98789230539083
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~生活服务场所"
+        "dataType": "周边业态~生活服务~物流速递",
+        "name": "物流速递2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "物流速递"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46501347866068,
-          39.993056704551265
+          116.46380190278437,
+          39.99108037809035
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~生活服务场所"
+        "dataType": "周边业态~生活服务~物流速递",
+        "name": "物流速递3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "物流速递"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46891771601719,
-          39.98995587979823
+          116.4658158085408,
+          39.98760690569867
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~美容美发店"
+        "dataType": "周边业态~生活服务~物流速递",
+        "name": "物流速递4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "物流速递"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.45944556310555,
-          39.99039374689266
+          116.46547752672974,
+          39.992649489903904
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~美容美发店"
+        "dataType": "周边业态~生活服务~物流速递",
+        "name": "物流速递5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "物流速递"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4617697035858,
-          39.99316685107753
+          116.46793655345742,
+          39.99286165500929
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~美容美发店"
+        "dataType": "周边业态~生活服务~物流速递",
+        "name": "物流速递6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "物流速递"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46311331826551,
-          39.9936826373243
+          116.4679370074691,
+          39.99170731722765
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~美容美发店"
+        "dataType": "周边业态~生活服务~物流速递",
+        "name": "物流速递7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "物流速递"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46490795072609,
-          39.98955221424183
+          116.46363030159667,
+          39.98984270751955
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~美容美发店"
+        "dataType": "周边业态~生活服务~摄影冲印店",
+        "name": "摄影冲印店0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "摄影冲印店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46021939580862,
-          39.990642348863226
+          116.46848290514255,
+          39.99406704162451
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~美容美发店"
+        "dataType": "周边业态~生活服务~摄影冲印店",
+        "name": "摄影冲印店1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "摄影冲印店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46722745746317,
-          39.99212357807953
+          116.46469688358995,
+          39.99193956878123
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~美容美发店"
+        "dataType": "周边业态~生活服务~摄影冲印店",
+        "name": "摄影冲印店2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "摄影冲印店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46759737724497,
-          39.99273482234031
+          116.46310661027366,
+          39.98910266259382
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~中介机构"
+        "dataType": "周边业态~生活服务~摄影冲印店",
+        "name": "摄影冲印店3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "摄影冲印店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46494263395896,
-          39.992478331608716
+          116.46779423285545,
+          39.98922155421409
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~中介机构"
+        "dataType": "周边业态~生活服务~摄影冲印店",
+        "name": "摄影冲印店4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "摄影冲印店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46123522016468,
-          39.99070019223707
+          116.4691278264485,
+          39.99272164469483
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~中介机构"
+        "dataType": "周边业态~生活服务~摄影冲印店",
+        "name": "摄影冲印店5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "摄影冲印店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4640742189031,
-          39.987561445097796
+          116.4679651342641,
+          39.991047875850946
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~中介机构"
+        "dataType": "周边业态~生活服务~摄影冲印店",
+        "name": "摄影冲印店6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "摄影冲印店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46194733335861,
-          39.99090714375785
+          116.46318016096613,
+          39.99128447020752
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~中介机构"
+        "dataType": "周边业态~生活服务~摄影冲印店",
+        "name": "摄影冲印店7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "摄影冲印店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.466327542518,
-          39.99451745057084
+          116.46379303931808,
+          39.98693506804836
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~中介机构"
+        "dataType": "周边业态~生活服务~摄影冲印店",
+        "name": "摄影冲印店8",
+        "address": "京市朝阳区广顺南大街",
+        "type": "摄影冲印店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46207765522306,
-          39.98864875692234
+          116.46039310855731,
+          39.989776734552265
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~洗浴推拿场所"
+        "dataType": "周边业态~生活服务~洗衣店",
+        "name": "洗衣店0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "洗衣店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46729552773263,
-          39.993280846702014
+          116.46225098501729,
+          39.9910025209629
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~洗浴推拿场所"
+        "dataType": "周边业态~生活服务~洗衣店",
+        "name": "洗衣店1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "洗衣店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.45965406925151,
-          39.98927949148718
+          116.4613131433355,
+          39.9917291235319
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~洗浴推拿场所"
+        "dataType": "周边业态~生活服务~洗衣店",
+        "name": "洗衣店2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "洗衣店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46182739962177,
-          39.98970614719358
+          116.46576692680304,
+          39.989136352328096
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~洗浴推拿场所"
+        "dataType": "周边业态~生活服务~洗衣店",
+        "name": "洗衣店3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "洗衣店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46956933649125,
-          39.99349051014847
+          116.4623508877187,
+          39.99176965300045
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~洗浴推拿场所"
+        "dataType": "周边业态~生活服务~洗衣店",
+        "name": "洗衣店4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "洗衣店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46072339630307,
-          39.99205931055271
+          116.47078287694296,
+          39.99098395157894
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~洗浴推拿场所"
+        "dataType": "周边业态~生活服务~其他",
+        "name": "其他0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "其他"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46319631876402,
-          39.987054227070026
+          116.46176206020459,
+          39.99423325890888
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~洗浴推拿场所"
+        "dataType": "周边业态~生活服务~其他",
+        "name": "其他1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "其他"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46814396659119,
-          39.989484655328056
+          116.46645228932611,
+          39.99371188144659
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~洗浴推拿场所"
+        "dataType": "周边业态~生活服务~其他",
+        "name": "其他2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "其他"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4636038076792,
-          39.99251066757248
+          116.46063415956583,
+          39.98970488276061
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~物流速递"
+        "dataType": "周边业态~生活服务~其他",
+        "name": "其他3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "其他"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46017001765465,
-          39.98912807913051
+          116.46619952697189,
+          39.99211349683715
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~物流速递"
+        "dataType": "周边业态~生活服务~其他",
+        "name": "其他4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "其他"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46546142598463,
-          39.992842291537855
+          116.46440738041265,
+          39.98959442740537
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~物流速递"
+        "dataType": "周边业态~生活服务~其他",
+        "name": "其他5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "其他"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.465115451454,
-          39.98674593945067
+          116.46988443394031,
+          39.99213788941779
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~物流速递"
+        "dataType": "周边业态~生活服务~其他",
+        "name": "其他6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "其他"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46713750451076,
-          39.99129779103625
+          116.46759689240737,
+          39.99366380726445
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~物流速递"
+        "dataType": "周边业态~生活服务~其他",
+        "name": "其他7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "其他"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4649802173001,
-          39.99287547054661
+          116.46796741161663,
+          39.990199251468795
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~物流速递"
+        "dataType": "周边业态~宾馆酒店~住宿服务相关",
+        "name": "住宿服务相关0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "住宿服务相关"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46374436186593,
-          39.99259564625749
+          116.46941016253606,
+          39.99248687846279
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~摄影冲印店"
+        "dataType": "周边业态~宾馆酒店~住宿服务相关",
+        "name": "住宿服务相关1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "住宿服务相关"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46393888064999,
-          39.99465960725249
+          116.46786066814406,
+          39.992246904421144
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~摄影冲印店"
+        "dataType": "周边业态~宾馆酒店~住宿服务相关",
+        "name": "住宿服务相关2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "住宿服务相关"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46180924976484,
-          39.994342396106504
+          116.47055345723669,
+          39.9914100584438
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~摄影冲印店"
+        "dataType": "周边业态~宾馆酒店~住宿服务相关",
+        "name": "住宿服务相关3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "住宿服务相关"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46325121584606,
-          39.99186248536198
+          116.46091802518991,
+          39.98976988030661
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~摄影冲印店"
+        "dataType": "周边业态~宾馆酒店~住宿服务相关",
+        "name": "住宿服务相关4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "住宿服务相关"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46910406826616,
-          39.98784562057489
+          116.46229786309519,
+          39.989759471567815
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~摄影冲印店"
+        "dataType": "周边业态~宾馆酒店~住宿服务相关",
+        "name": "住宿服务相关5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "住宿服务相关"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46201587035544,
-          39.98803990025371
+          116.46842019963219,
+          39.98759627201827
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~摄影冲印店"
+        "dataType": "周边业态~宾馆酒店~宾馆酒店",
+        "name": "宾馆酒店0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "宾馆酒店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46438414635277,
-          39.98763655672936
+          116.46809091087981,
+          39.99421814788704
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~摄影冲印店"
+        "dataType": "周边业态~宾馆酒店~宾馆酒店",
+        "name": "宾馆酒店1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "宾馆酒店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46533531948477,
-          39.995058974215176
+          116.45989681799551,
+          39.99104525095128
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~洗衣店"
+        "dataType": "周边业态~宾馆酒店~宾馆酒店",
+        "name": "宾馆酒店2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "宾馆酒店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46617340177909,
-          39.99257985769126
+          116.46559953974271,
+          39.993705497177565
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~洗衣店"
+        "dataType": "周边业态~宾馆酒店~宾馆酒店",
+        "name": "宾馆酒店3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "宾馆酒店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.47053916695867,
-          39.9911132243696
+          116.4685870694585,
+          39.98740715352
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~洗衣店"
+        "dataType": "周边业态~宾馆酒店~宾馆酒店",
+        "name": "宾馆酒店4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "宾馆酒店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46766220079178,
-          39.99127154771592
+          116.45992579034356,
+          39.99224094123233
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~洗衣店"
+        "dataType": "周边业态~宾馆酒店~宾馆酒店",
+        "name": "宾馆酒店5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "宾馆酒店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4623102456761,
-          39.989743377096744
+          116.4705095283196,
+          39.99076525262282
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~洗衣店"
+        "dataType": "周边业态~宾馆酒店~宾馆酒店",
+        "name": "宾馆酒店6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "宾馆酒店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46265717558781,
-          39.987610725601435
+          116.46331619005204,
+          39.99472268205539
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~洗衣店"
+        "dataType": "周边业态~宾馆酒店~宾馆酒店",
+        "name": "宾馆酒店7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "宾馆酒店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46680796074621,
-          39.99187358413311
+          116.46180123403225,
+          39.991086658040146
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~洗衣店"
+        "dataType": "周边业态~宾馆酒店~宾馆酒店",
+        "name": "宾馆酒店8",
+        "address": "京市朝阳区广顺南大街",
+        "type": "宾馆酒店"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46613601964206,
-          39.98784162022999
+          116.46557786773928,
+          39.9877071723629
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~洗衣店"
+        "dataType": "周边业态~宾馆酒店~旅馆招待所",
+        "name": "旅馆招待所0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "旅馆招待所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46413246105615,
-          39.9902252174913
+          116.46482902056786,
+          39.98751926966879
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~其他"
+        "dataType": "周边业态~宾馆酒店~旅馆招待所",
+        "name": "旅馆招待所1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "旅馆招待所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46624616641925,
-          39.99244386745412
+          116.46324864585357,
+          39.98665427385993
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~其他"
+        "dataType": "周边业态~宾馆酒店~旅馆招待所",
+        "name": "旅馆招待所2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "旅馆招待所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4618628158148,
-          39.99351582276046
+          116.46229636807381,
+          39.99214272652839
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~其他"
+        "dataType": "周边业态~宾馆酒店~旅馆招待所",
+        "name": "旅馆招待所3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "旅馆招待所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46438159057602,
-          39.98827052048483
+          116.46800365832821,
+          39.9930009114584
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~其他"
+        "dataType": "周边业态~宾馆酒店~旅馆招待所",
+        "name": "旅馆招待所4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "旅馆招待所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46800739575201,
-          39.992025059930086
+          116.46196013036239,
+          39.99314793913279
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~其他"
+        "dataType": "周边业态~宾馆酒店~旅馆招待所",
+        "name": "旅馆招待所5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "旅馆招待所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46136243619667,
-          39.99125626676544
+          116.46469037117444,
+          39.98746320302856
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~生活服务~其他"
+        "dataType": "周边业态~宾馆酒店~旅馆招待所",
+        "name": "旅馆招待所6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "旅馆招待所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46693401767973,
-          39.994622165800315
+          116.46976121257228,
+          39.99309479456878
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~宾馆酒店~住宿服务相关"
+        "dataType": "周边业态~医疗卫生~综合医院",
+        "name": "综合医院0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "综合医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4625717994123,
-          39.990402540110914
+          116.46207962280835,
+          39.99030887036919
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~宾馆酒店~住宿服务相关"
+        "dataType": "周边业态~医疗卫生~综合医院",
+        "name": "综合医院1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "综合医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46873612895222,
-          39.98764079325133
+          116.46495191803476,
+          39.9946640863611
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~宾馆酒店~住宿服务相关"
+        "dataType": "周边业态~医疗卫生~综合医院",
+        "name": "综合医院2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "综合医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46690395128213,
-          39.98858980136461
+          116.46859396131168,
+          39.990392537621105
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~宾馆酒店~住宿服务相关"
+        "dataType": "周边业态~医疗卫生~综合医院",
+        "name": "综合医院3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "综合医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46229464198152,
-          39.993218366820095
+          116.46833671691581,
+          39.99396839757196
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~宾馆酒店~住宿服务相关"
+        "dataType": "周边业态~医疗卫生~综合医院",
+        "name": "综合医院4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "综合医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4697192281381,
-          39.98982717251699
+          116.46434601524214,
+          39.98915410836783
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~宾馆酒店~住宿服务相关"
+        "dataType": "周边业态~医疗卫生~综合医院",
+        "name": "综合医院5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "综合医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46909301639165,
-          39.99124836800078
+          116.4664104133849,
+          39.98784038814176
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~宾馆酒店~住宿服务相关"
+        "dataType": "周边业态~医疗卫生~综合医院",
+        "name": "综合医院6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "综合医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46295667926081,
-          39.99407415104343
+          116.46487286400848,
+          39.99386053375037
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~宾馆酒店~住宿服务相关"
+        "dataType": "周边业态~医疗卫生~综合医院",
+        "name": "综合医院7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "综合医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4660733398903,
-          39.99410268258552
+          116.4627873274164,
+          39.994691006668354
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~宾馆酒店~宾馆酒店"
+        "dataType": "周边业态~医疗卫生~综合医院",
+        "name": "综合医院8",
+        "address": "京市朝阳区广顺南大街",
+        "type": "综合医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46989933756107,
-          39.99203750702223
+          116.46566737232367,
+          39.99452521805654
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~宾馆酒店~宾馆酒店"
+        "dataType": "周边业态~医疗卫生~综合医院",
+        "name": "综合医院9",
+        "address": "京市朝阳区广顺南大街",
+        "type": "综合医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46638429880032,
-          39.99408120068637
+          116.46759495723644,
+          39.986967484561504
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~宾馆酒店~宾馆酒店"
+        "dataType": "周边业态~医疗卫生~专科医院",
+        "name": "专科医院0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "专科医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4701620969773,
-          39.98944667138995
+          116.46950554287538,
+          39.98996816110599
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~宾馆酒店~宾馆酒店"
+        "dataType": "周边业态~医疗卫生~专科医院",
+        "name": "专科医院1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "专科医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.45974068538128,
-          39.990700881888905
+          116.47016503546462,
+          39.99146182419589
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~宾馆酒店~宾馆酒店"
+        "dataType": "周边业态~医疗卫生~专科医院",
+        "name": "专科医院2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "专科医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46416118019806,
-          39.991847279285224
+          116.46097775342339,
+          39.99284873449907
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~宾馆酒店~宾馆酒店"
+        "dataType": "周边业态~医疗卫生~专科医院",
+        "name": "专科医院3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "专科医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46096043311523,
-          39.988999193818564
+          116.46192186541971,
+          39.99283064183454
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~宾馆酒店~宾馆酒店"
+        "dataType": "周边业态~医疗卫生~专科医院",
+        "name": "专科医院4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "专科医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46812755470543,
-          39.98840358435342
+          116.4668085340869,
+          39.99224484619783
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~宾馆酒店~旅馆招待所"
+        "dataType": "周边业态~医疗卫生~专科医院",
+        "name": "专科医院5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "专科医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46368319111458,
-          39.99305732932332
+          116.46543941170665,
+          39.989316574765574
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~宾馆酒店~旅馆招待所"
+        "dataType": "周边业态~医疗卫生~专科医院",
+        "name": "专科医院6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "专科医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4691426156428,
-          39.992472289718236
+          116.46138215747983,
+          39.99208386487326
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~宾馆酒店~旅馆招待所"
+        "dataType": "周边业态~医疗卫生~专科医院",
+        "name": "专科医院7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "专科医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46497111151994,
-          39.988002160576066
+          116.46411309805245,
+          39.99139016019098
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~宾馆酒店~旅馆招待所"
+        "dataType": "周边业态~医疗卫生~专科医院",
+        "name": "专科医院8",
+        "address": "京市朝阳区广顺南大街",
+        "type": "专科医院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46123914474244,
-          39.99296100352352
+          116.46079016767465,
+          39.991150277584296
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~宾馆酒店~旅馆招待所"
+        "dataType": "周边业态~医疗卫生~诊所",
+        "name": "诊所0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "诊所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46171923976958,
-          39.99208760395549
+          116.46765244615277,
+          39.98792092890867
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~宾馆酒店~旅馆招待所"
+        "dataType": "周边业态~医疗卫生~诊所",
+        "name": "诊所1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "诊所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46943776234178,
-          39.98890270605545
+          116.46249570919564,
+          39.99415016334602
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~综合医院"
+        "dataType": "周边业态~医疗卫生~诊所",
+        "name": "诊所2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "诊所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46725186398338,
-          39.99444501270886
+          116.46432735076657,
+          39.98893967243648
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~综合医院"
+        "dataType": "周边业态~医疗卫生~诊所",
+        "name": "诊所3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "诊所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46604922830107,
-          39.99309460646661
+          116.46447143130776,
+          39.987077797011594
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~综合医院"
+        "dataType": "周边业态~医疗卫生~诊所",
+        "name": "诊所4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "诊所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46640119341185,
-          39.98678093204524
+          116.46876771481149,
+          39.99050315119601
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~综合医院"
+        "dataType": "周边业态~医疗卫生~诊所",
+        "name": "诊所5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "诊所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46032076277321,
-          39.98860346062703
+          116.46999988205133,
+          39.98898887625339
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~综合医院"
+        "dataType": "周边业态~医疗卫生~诊所",
+        "name": "诊所6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "诊所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46216556065798,
-          39.99059446975222
+          116.45962694770942,
+          39.99005964652944
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~综合医院"
+        "dataType": "周边业态~医疗卫生~诊所",
+        "name": "诊所7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "诊所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46300900068518,
-          39.991306000555866
+          116.46565670365466,
+          39.98945620125437
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~综合医院"
+        "dataType": "周边业态~医疗卫生~诊所",
+        "name": "诊所8",
+        "address": "京市朝阳区广顺南大街",
+        "type": "诊所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46665610416535,
-          39.99429945730467
+          116.46542568553944,
+          39.99287113284348
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~综合医院"
+        "dataType": "周边业态~医疗卫生~动物医疗场所",
+        "name": "动物医疗场所0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "动物医疗场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46360892705107,
-          39.987861160171526
+          116.47078799403829,
+          39.99092865699855
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~综合医院"
+        "dataType": "周边业态~医疗卫生~动物医疗场所",
+        "name": "动物医疗场所1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "动物医疗场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4655318843867,
-          39.98924450932707
+          116.4644186870589,
+          39.98850527718681
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~专科医院"
+        "dataType": "周边业态~医疗卫生~动物医疗场所",
+        "name": "动物医疗场所2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "动物医疗场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4644401267754,
-          39.9924899200145
+          116.46451375513722,
+          39.9919155701764
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~专科医院"
+        "dataType": "周边业态~医疗卫生~动物医疗场所",
+        "name": "动物医疗场所3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "动物医疗场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46378157271832,
-          39.99267373926651
+          116.46586091698776,
+          39.99085828890249
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~专科医院"
+        "dataType": "周边业态~医疗卫生~动物医疗场所",
+        "name": "动物医疗场所4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "动物医疗场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46258631450922,
-          39.990743638980085
+          116.46425333136999,
+          39.987230211055405
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~专科医院"
+        "dataType": "周边业态~医疗卫生~动物医疗场所",
+        "name": "动物医疗场所5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "动物医疗场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46180946302009,
-          39.99258158127724
+          116.4690552415619,
+          39.99005934761364
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~专科医院"
+        "dataType": "周边业态~医疗卫生~动物医疗场所",
+        "name": "动物医疗场所6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "动物医疗场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4644744570246,
-          39.989598884812395
+          116.46037672250559,
+          39.9927147933053
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~专科医院"
+        "dataType": "周边业态~医疗卫生~动物医疗场所",
+        "name": "动物医疗场所7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "动物医疗场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46675225907327,
-          39.98976599057781
+          116.46638213341477,
+          39.988257195874986
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~专科医院"
+        "dataType": "周边业态~医疗卫生~动物医疗场所",
+        "name": "动物医疗场所8",
+        "address": "京市朝阳区广顺南大街",
+        "type": "动物医疗场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46558282591923,
-          39.988227741162504
+          116.4607379266365,
+          39.99218317420693
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~专科医院"
+        "dataType": "周边业态~体育休闲~休闲场所",
+        "name": "休闲场所0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "休闲场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46030409167898,
-          39.99144360648088
+          116.46889824074007,
+          39.99179581491114
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~诊所"
+        "dataType": "周边业态~体育休闲~休闲场所",
+        "name": "休闲场所1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "休闲场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4630385461865,
-          39.988236411367744
+          116.46169066302981,
+          39.989259582646554
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~诊所"
+        "dataType": "周边业态~体育休闲~休闲场所",
+        "name": "休闲场所2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "休闲场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46987032795356,
-          39.98887599559644
+          116.4628662775623,
+          39.9869238687343
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~诊所"
+        "dataType": "周边业态~体育休闲~休闲场所",
+        "name": "休闲场所3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "休闲场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46646710992106,
-          39.99246560640156
+          116.4637606248192,
+          39.98827069838394
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~诊所"
+        "dataType": "周边业态~体育休闲~休闲场所",
+        "name": "休闲场所4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "休闲场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46783186362306,
-          39.99309333281104
+          116.46238491472816,
+          39.99124329007177
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~诊所"
+        "dataType": "周边业态~体育休闲~休闲场所",
+        "name": "休闲场所5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "休闲场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46930325919493,
-          39.99130314384606
+          116.4692811332722,
+          39.988032580208966
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~诊所"
+        "dataType": "周边业态~体育休闲~休闲场所",
+        "name": "休闲场所6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "休闲场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4659465568195,
-          39.98711537879207
+          116.46483438254056,
+          39.99305362075876
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~诊所"
+        "dataType": "周边业态~体育休闲~休闲场所",
+        "name": "休闲场所7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "休闲场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46457790310737,
-          39.98642654563417
+          116.46948818644601,
+          39.98861271410122
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~诊所"
+        "dataType": "周边业态~体育休闲~休闲场所",
+        "name": "休闲场所8",
+        "address": "京市朝阳区广顺南大街",
+        "type": "休闲场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46310500925236,
-          39.99376473631113
+          116.46629191311091,
+          39.98798108238886
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~诊所"
+        "dataType": "周边业态~体育休闲~体育休闲服务场所",
+        "name": "体育休闲服务场所0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "体育休闲服务场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46234507030438,
-          39.991097922881515
+          116.47053217820574,
+          39.989268392815
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~动物医疗场所"
+        "dataType": "周边业态~体育休闲~体育休闲服务场所",
+        "name": "体育休闲服务场所1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "体育休闲服务场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46408706353125,
-          39.99019090380963
+          116.46484329314488,
+          39.991789804684586
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~动物医疗场所"
+        "dataType": "周边业态~体育休闲~体育休闲服务场所",
+        "name": "体育休闲服务场所2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "体育休闲服务场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46058413545282,
-          39.98984161801944
+          116.46635247487698,
+          39.9941619984114
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~动物医疗场所"
+        "dataType": "周边业态~体育休闲~体育休闲服务场所",
+        "name": "体育休闲服务场所3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "体育休闲服务场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46832670706105,
-          39.99392490348939
+          116.46519364252308,
+          39.98914446825213
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~动物医疗场所"
+        "dataType": "周边业态~体育休闲~体育休闲服务场所",
+        "name": "体育休闲服务场所4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "体育休闲服务场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46571704334596,
-          39.99237321436082
+          116.45953232056104,
+          39.99100355412144
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~医疗卫生~动物医疗场所"
+        "dataType": "周边业态~体育休闲~体育休闲服务场所",
+        "name": "体育休闲服务场所5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "体育休闲服务场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46803553923775,
-          39.988952468938265
+          116.46590257446965,
+          39.99182189759251
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~休闲场所"
+        "dataType": "周边业态~体育休闲~体育休闲服务场所",
+        "name": "体育休闲服务场所6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "体育休闲服务场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46632874356405,
-          39.99124675492453
+          116.46098911600072,
+          39.991351658532324
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~休闲场所"
+        "dataType": "周边业态~体育休闲~体育休闲服务场所",
+        "name": "体育休闲服务场所7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "体育休闲服务场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46992144016656,
-          39.9924969187256
+          116.46654835645958,
+          39.98812889109554
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~休闲场所"
+        "dataType": "周边业态~体育休闲~娱乐场所",
+        "name": "娱乐场所0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "娱乐场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4674559839466,
-          39.99457835204284
+          116.46345623857671,
+          39.99197036942835
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~休闲场所"
+        "dataType": "周边业态~体育休闲~娱乐场所",
+        "name": "娱乐场所1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "娱乐场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4607264165395,
-          39.990576774893164
+          116.46108565594736,
+          39.993516945835104
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~休闲场所"
+        "dataType": "周边业态~体育休闲~娱乐场所",
+        "name": "娱乐场所2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "娱乐场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46087759466654,
-          39.99281377512252
+          116.46236785082796,
+          39.98788340468388
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~休闲场所"
+        "dataType": "周边业态~体育休闲~娱乐场所",
+        "name": "娱乐场所3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "娱乐场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46986274507367,
-          39.99180837084017
+          116.46446803118218,
+          39.994826738317684
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~休闲场所"
+        "dataType": "周边业态~体育休闲~娱乐场所",
+        "name": "娱乐场所4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "娱乐场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4650645821843,
-          39.99264411976954
+          116.46641837905132,
+          39.991345056950344
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~休闲场所"
+        "dataType": "周边业态~体育休闲~娱乐场所",
+        "name": "娱乐场所5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "娱乐场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46371126692809,
-          39.98965121694163
+          116.4673952466059,
+          39.99198468967838
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~休闲场所"
+        "dataType": "周边业态~体育休闲~娱乐场所",
+        "name": "娱乐场所6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "娱乐场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46665741827944,
-          39.991736172609066
+          116.46817992026467,
+          39.99078584312941
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~休闲场所"
+        "dataType": "周边业态~体育休闲~度假疗养场所",
+        "name": "度假疗养场所0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "度假疗养场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.45994975465938,
-          39.99146850830679
+          116.46052636889421,
+          39.992852013867235
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~体育休闲服务场所"
+        "dataType": "周边业态~体育休闲~度假疗养场所",
+        "name": "度假疗养场所1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "度假疗养场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46195597129243,
-          39.99295362110987
+          116.46693617193048,
+          39.99434221424237
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~体育休闲服务场所"
+        "dataType": "周边业态~体育休闲~度假疗养场所",
+        "name": "度假疗养场所2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "度假疗养场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46545425491006,
-          39.987010627004906
+          116.46650977956716,
+          39.99273372943946
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~体育休闲服务场所"
+        "dataType": "周边业态~体育休闲~度假疗养场所",
+        "name": "度假疗养场所3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "度假疗养场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4625070092617,
-          39.98744793542873
+          116.46151034369566,
+          39.99153602197082
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~体育休闲服务场所"
+        "dataType": "周边业态~体育休闲~度假疗养场所",
+        "name": "度假疗养场所4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "度假疗养场所"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46514884320337,
-          39.99197316925456
+          116.4677221442004,
+          39.988753663979736
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~体育休闲服务场所"
+        "dataType": "周边业态~体育休闲~影剧院",
+        "name": "影剧院0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "影剧院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46764734733915,
-          39.993802088708634
+          116.4689647036639,
+          39.98887616699938
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~体育休闲服务场所"
+        "dataType": "周边业态~体育休闲~影剧院",
+        "name": "影剧院1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "影剧院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46071943008845,
-          39.99311003224564
+          116.46686666988576,
+          39.98663709978677
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~体育休闲服务场所"
+        "dataType": "周边业态~体育休闲~影剧院",
+        "name": "影剧院2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "影剧院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46481298580493,
-          39.993807435372666
+          116.4629507229466,
+          39.988648449513306
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~体育休闲服务场所"
+        "dataType": "周边业态~体育休闲~影剧院",
+        "name": "影剧院3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "影剧院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46122135021645,
-          39.993413831464025
+          116.4673822887811,
+          39.98945940746376
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~体育休闲服务场所"
+        "dataType": "周边业态~体育休闲~影剧院",
+        "name": "影剧院4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "影剧院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4625424214925,
-          39.98904948489677
+          116.46812944994852,
+          39.988167431111286
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~娱乐场所"
+        "dataType": "周边业态~体育休闲~影剧院",
+        "name": "影剧院5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "影剧院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4633422793215,
-          39.99436960934429
+          116.46697352091374,
+          39.99308634670318
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~娱乐场所"
+        "dataType": "周边业态~体育休闲~影剧院",
+        "name": "影剧院6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "影剧院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46466113250402,
-          39.99236504118465
+          116.46684728230899,
+          39.990641650384745
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~娱乐场所"
+        "dataType": "周边业态~体育休闲~影剧院",
+        "name": "影剧院7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "影剧院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46689524768432,
-          39.99181910762007
+          116.46178587110434,
+          39.99209533841848
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~娱乐场所"
+        "dataType": "周边业态~体育休闲~影剧院",
+        "name": "影剧院8",
+        "address": "京市朝阳区广顺南大街",
+        "type": "影剧院"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46133374612536,
-          39.993923609251944
+          116.46377069056726,
+          39.991733870860244
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~娱乐场所"
+        "dataType": "周边业态~体育休闲~运动场馆",
+        "name": "运动场馆0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "运动场馆"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46223701616937,
-          39.99308025174407
+          116.464203017202,
+          39.99164594559889
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~度假疗养场所"
+        "dataType": "周边业态~体育休闲~运动场馆",
+        "name": "运动场馆1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "运动场馆"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46818855804442,
-          39.99210669711963
+          116.46769830593374,
+          39.99158288105709
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~度假疗养场所"
+        "dataType": "周边业态~体育休闲~运动场馆",
+        "name": "运动场馆2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "运动场馆"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46645451263376,
-          39.986942504629965
+          116.46721895480235,
+          39.98869534902849
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~度假疗养场所"
+        "dataType": "周边业态~体育休闲~运动场馆",
+        "name": "运动场馆3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "运动场馆"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46632064452913,
-          39.99260825020298
+          116.46716721664862,
+          39.987261268618894
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~度假疗养场所"
+        "dataType": "周边业态~体育休闲~运动场馆",
+        "name": "运动场馆4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "运动场馆"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46425063073777,
-          39.989333075978614
+          116.46563512804778,
+          39.99261428393773
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~度假疗养场所"
+        "dataType": "周边业态~体育休闲~运动场馆",
+        "name": "运动场馆5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "运动场馆"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46290124915905,
-          39.98950156227018
+          116.4657634310184,
+          39.9881937618304
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~度假疗养场所"
+        "dataType": "周边业态~体育休闲~运动场馆",
+        "name": "运动场馆6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "运动场馆"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46039835468294,
-          39.988216365287286
+          116.45983093154985,
+          39.99078017438047
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~度假疗养场所"
+        "dataType": "周边业态~金融银行~保险公司",
+        "name": "保险公司0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "保险公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4655868867593,
-          39.99441980044084
+          116.47026462166153,
+          39.9912163928195
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~度假疗养场所"
+        "dataType": "周边业态~金融银行~保险公司",
+        "name": "保险公司1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "保险公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46895359391628,
-          39.992876331932685
+          116.46416470575058,
+          39.99079719066668
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~度假疗养场所"
+        "dataType": "周边业态~金融银行~保险公司",
+        "name": "保险公司2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "保险公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46337862271182,
-          39.994302701360134
+          116.46369549940601,
+          39.99497256326225
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~影剧院"
+        "dataType": "周边业态~金融银行~保险公司",
+        "name": "保险公司3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "保险公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46272786543595,
-          39.98774550136389
+          116.46739185972558,
+          39.989477657440105
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~影剧院"
+        "dataType": "周边业态~金融银行~保险公司",
+        "name": "保险公司4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "保险公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46265912765486,
-          39.99094361663692
+          116.46177117637778,
+          39.98696956538496
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~影剧院"
+        "dataType": "周边业态~金融银行~保险公司",
+        "name": "保险公司5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "保险公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46003606411297,
-          39.98913432413061
+          116.46595791667673,
+          39.99425899288238
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~影剧院"
+        "dataType": "周边业态~金融银行~保险公司",
+        "name": "保险公司6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "保险公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46111451678581,
-          39.99057430075678
+          116.46436176711624,
+          39.99115463727865
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~影剧院"
+        "dataType": "周边业态~金融银行~保险公司",
+        "name": "保险公司7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "保险公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46487995712134,
-          39.99226021450944
+          116.46364540463294,
+          39.990126440625815
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~影剧院"
+        "dataType": "周边业态~金融银行~保险公司",
+        "name": "保险公司8",
+        "address": "京市朝阳区广顺南大街",
+        "type": "保险公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4667087070693,
-          39.99028899866582
+          116.46457776501627,
+          39.99332226152776
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~影剧院"
+        "dataType": "周边业态~金融银行~自动提款机",
+        "name": "自动提款机0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "自动提款机"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46304499032699,
-          39.98681433093578
+          116.46072132279492,
+          39.98980506240291
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~影剧院"
+        "dataType": "周边业态~金融银行~自动提款机",
+        "name": "自动提款机1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "自动提款机"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4666596974002,
-          39.994704781382666
+          116.46661677917581,
+          39.99272174157541
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~影剧院"
+        "dataType": "周边业态~金融银行~自动提款机",
+        "name": "自动提款机2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "自动提款机"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4680426718334,
-          39.98990156996455
+          116.46461811882918,
+          39.98638833331432
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~运动场馆"
+        "dataType": "周边业态~金融银行~自动提款机",
+        "name": "自动提款机3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "自动提款机"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46349032633337,
-          39.99492187159543
+          116.46143066022685,
+          39.98900288896211
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~运动场馆"
+        "dataType": "周边业态~金融银行~自动提款机",
+        "name": "自动提款机4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "自动提款机"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46675516260258,
-          39.9920687863539
+          116.46593616316373,
+          39.99305225953459
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~运动场馆"
+        "dataType": "周边业态~金融银行~自动提款机",
+        "name": "自动提款机5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "自动提款机"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4654142723961,
-          39.98883437568984
+          116.46266034188346,
+          39.98823372975582
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~运动场馆"
+        "dataType": "周边业态~金融银行~自动提款机",
+        "name": "自动提款机6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "自动提款机"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46621143957866,
-          39.99221814899296
+          116.469784434172,
+          39.991076586397334
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~运动场馆"
+        "dataType": "周边业态~金融银行~自动提款机",
+        "name": "自动提款机7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "自动提款机"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46086146635103,
-          39.99202562594499
+          116.46760725022246,
+          39.99462070451463
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~运动场馆"
+        "dataType": "周边业态~金融银行~自动提款机",
+        "name": "自动提款机8",
+        "address": "京市朝阳区广顺南大街",
+        "type": "自动提款机"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46215485212922,
-          39.989186808495326
+          116.47049705243938,
+          39.991683069285614
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~运动场馆"
+        "dataType": "周边业态~金融银行~证券公司",
+        "name": "证券公司0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "证券公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46706574886312,
-          39.988940050897654
+          116.46556845508539,
+          39.99280025534793
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~体育休闲~运动场馆"
+        "dataType": "周边业态~金融银行~证券公司",
+        "name": "证券公司1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "证券公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4696451630411,
-          39.99280723930298
+          116.46372144640783,
+          39.98929472591739
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~保险公司"
+        "dataType": "周边业态~金融银行~证券公司",
+        "name": "证券公司2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "证券公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46697321653231,
-          39.99292902466967
+          116.46248718063772,
+          39.987047655779506
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~保险公司"
+        "dataType": "周边业态~金融银行~证券公司",
+        "name": "证券公司3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "证券公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46040822094989,
-          39.9896486877431
+          116.46171991488784,
+          39.99326570091088
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~保险公司"
+        "dataType": "周边业态~金融银行~证券公司",
+        "name": "证券公司4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "证券公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46974931060048,
-          39.99315499762118
+          116.46257542067465,
+          39.98967521749747
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~保险公司"
+        "dataType": "周边业态~金融银行~证券公司",
+        "name": "证券公司5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "证券公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46472212502721,
-          39.988341379979836
+          116.4667261492568,
+          39.98927816334803
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~保险公司"
+        "dataType": "周边业态~金融银行~证券公司",
+        "name": "证券公司6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "证券公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46753192248065,
-          39.99214779590437
+          116.46021363641451,
+          39.99153036348429
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~保险公司"
+        "dataType": "周边业态~金融银行~证券公司",
+        "name": "证券公司7",
+        "address": "京市朝阳区广顺南大街",
+        "type": "证券公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46669446681071,
-          39.988116928863946
+          116.46387089982785,
+          39.99231319322987
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~保险公司"
+        "dataType": "周边业态~金融银行~财务公司",
+        "name": "财务公司0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "财务公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46407099925739,
-          39.99263943621072
+          116.46940138926043,
+          39.991425229451096
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~保险公司"
+        "dataType": "周边业态~金融银行~财务公司",
+        "name": "财务公司1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "财务公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46331988809813,
-          39.992636814120196
+          116.46790594131534,
+          39.99203279977043
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~保险公司"
+        "dataType": "周边业态~金融银行~财务公司",
+        "name": "财务公司2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "财务公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46820967326202,
-          39.987309816381284
+          116.46801472210409,
+          39.98755320208552
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~自动提款机"
+        "dataType": "周边业态~金融银行~财务公司",
+        "name": "财务公司3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "财务公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46888012501186,
-          39.99356388572814
+          116.4593694105364,
+          39.990733092809144
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~自动提款机"
+        "dataType": "周边业态~金融银行~财务公司",
+        "name": "财务公司4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "财务公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46697370625544,
-          39.99021892809176
+          116.46729848975434,
+          39.99351796161279
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~自动提款机"
+        "dataType": "周边业态~金融银行~财务公司",
+        "name": "财务公司5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "财务公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46969257471417,
-          39.988254778000474
+          116.46402064853568,
+          39.98881864303809
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~自动提款机"
+        "dataType": "周边业态~金融银行~财务公司",
+        "name": "财务公司6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "财务公司"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46572451091662,
-          39.98827328795133
+          116.46618019862257,
+          39.99437993720828
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~自动提款机"
+        "dataType": "周边业态~金融银行~金融保险服务机构",
+        "name": "金融保险服务机构0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "金融保险服务机构"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46445444092127,
-          39.98779318371315
+          116.46961597133424,
+          39.99148204765808
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~自动提款机"
+        "dataType": "周边业态~金融银行~金融保险服务机构",
+        "name": "金融保险服务机构1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "金融保险服务机构"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4644805162527,
-          39.989495038785954
+          116.46507974240394,
+          39.98647786976547
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~自动提款机"
+        "dataType": "周边业态~金融银行~金融保险服务机构",
+        "name": "金融保险服务机构2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "金融保险服务机构"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46052405206987,
-          39.98911630350033
+          116.46951230513939,
+          39.98942806343839
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~自动提款机"
+        "dataType": "周边业态~金融银行~金融保险服务机构",
+        "name": "金融保险服务机构3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "金融保险服务机构"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46764498503582,
-          39.991298522114526
+          116.46721425934888,
+          39.99064945307024
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~证券公司"
+        "dataType": "周边业态~金融银行~金融保险服务机构",
+        "name": "金融保险服务机构4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "金融保险服务机构"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.47006016691574,
-          39.992850789089836
+          116.46644141063395,
+          39.99035355475906
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~证券公司"
+        "dataType": "周边业态~金融银行~金融保险服务机构",
+        "name": "金融保险服务机构5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "金融保险服务机构"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4643021933804,
-          39.994880822067174
+          116.46744915001257,
+          39.993529275641016
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~证券公司"
+        "dataType": "周边业态~金融银行~金融保险服务机构",
+        "name": "金融保险服务机构6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "金融保险服务机构"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46628298822215,
-          39.987795955274464
+          116.46387629331764,
+          39.98857468995207
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~证券公司"
+        "dataType": "周边业态~金融银行~银行",
+        "name": "银行0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "银行"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46774699793663,
-          39.9922560096144
+          116.46607479293407,
+          39.98903005536225
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~证券公司"
+        "dataType": "周边业态~金融银行~银行",
+        "name": "银行1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "银行"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46143662659682,
-          39.99317712435571
+          116.46186118121618,
+          39.992193815807376
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~证券公司"
+        "dataType": "周边业态~金融银行~银行",
+        "name": "银行2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "银行"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46068190352912,
-          39.991217386925726
+          116.46589006997091,
+          39.989225813155755
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~证券公司"
+        "dataType": "周边业态~金融银行~银行",
+        "name": "银行3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "银行"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46655655407943,
-          39.990346326368574
+          116.4700512891163,
+          39.98841295778977
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~证券公司"
+        "dataType": "周边业态~金融银行~银行",
+        "name": "银行4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "银行"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46022485405038,
-          39.99252951906756
+          116.46878669878414,
+          39.99289871254341
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~财务公司"
+        "dataType": "周边业态~金融银行~银行",
+        "name": "银行5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "银行"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46643979004537,
-          39.99463497734029
+          116.46850072467362,
+          39.98910240639512
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~财务公司"
+        "dataType": "周边业态~金融银行~银行",
+        "name": "银行6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "银行"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46692313115814,
-          39.99053423177241
+          116.46893305471258,
+          39.99317735015247
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~财务公司"
+        "dataType": "周边业态~金融银行~银行相关",
+        "name": "银行相关0",
+        "address": "京市朝阳区广顺南大街",
+        "type": "银行相关"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46469113542418,
-          39.98988493858755
+          116.46452021771842,
+          39.98898368266525
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~财务公司"
+        "dataType": "周边业态~金融银行~银行相关",
+        "name": "银行相关1",
+        "address": "京市朝阳区广顺南大街",
+        "type": "银行相关"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46433175166739,
-          39.994726027596826
+          116.46928824672992,
+          39.987746158465754
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~财务公司"
+        "dataType": "周边业态~金融银行~银行相关",
+        "name": "银行相关2",
+        "address": "京市朝阳区广顺南大街",
+        "type": "银行相关"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46176357802852,
-          39.987037992659225
+          116.46184500553208,
+          39.98848029379781
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~财务公司"
+        "dataType": "周边业态~金融银行~银行相关",
+        "name": "银行相关3",
+        "address": "京市朝阳区广顺南大街",
+        "type": "银行相关"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4637364894054,
-          39.98652100386287
+          116.46683032523933,
+          39.9894664279078
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~财务公司"
+        "dataType": "周边业态~金融银行~银行相关",
+        "name": "银行相关4",
+        "address": "京市朝阳区广顺南大街",
+        "type": "银行相关"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46600499235332,
-          39.98846262751104
+          116.46985562257004,
+          39.992172640446285
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~财务公司"
+        "dataType": "周边业态~金融银行~银行相关",
+        "name": "银行相关5",
+        "address": "京市朝阳区广顺南大街",
+        "type": "银行相关"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46598222624498,
-          39.98706141267235
+          116.46120013475313,
+          39.9882307874611
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "dataType": "周边业态~金融银行~金融保险服务机构"
+        "dataType": "周边业态~金融银行~银行相关",
+        "name": "银行相关6",
+        "address": "京市朝阳区广顺南大街",
+        "type": "银行相关"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.46195034087478,
-          39.99350719065215
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "dataType": "周边业态~金融银行~金融保险服务机构"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.46322229069209,
-          39.992769446022365
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "dataType": "周边业态~金融银行~金融保险服务机构"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.46711536542952,
-          39.99387194922554
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "dataType": "周边业态~金融银行~金融保险服务机构"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.46562046168832,
-          39.98769980634917
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "dataType": "周边业态~金融银行~金融保险服务机构"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.4635682621094,
-          39.98712446797219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "dataType": "周边业态~金融银行~金融保险服务机构"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.46063761904377,
-          39.98953266814165
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "dataType": "周边业态~金融银行~金融保险服务机构"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.46276871516717,
-          39.989198353079765
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "dataType": "周边业态~金融银行~金融保险服务机构"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.4680760272562,
-          39.99342423175744
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "dataType": "周边业态~金融银行~银行"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.46216678308,
-          39.991134111509965
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "dataType": "周边业态~金融银行~银行"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.4696826892019,
-          39.99326456935296
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "dataType": "周边业态~金融银行~银行"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.46818814586234,
-          39.99369040259297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "dataType": "周边业态~金融银行~银行"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.46570063969159,
-          39.98697793295129
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "dataType": "周边业态~金融银行~银行"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.46436512278072,
-          39.99183747632107
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "dataType": "周边业态~金融银行~银行"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.46733673144686,
-          39.994704419357596
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "dataType": "周边业态~金融银行~银行"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.46550418356968,
-          39.99315723560865
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "dataType": "周边业态~金融银行~银行"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.46265023510989,
-          39.99346850824609
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "dataType": "周边业态~金融银行~银行"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.46189552611142,
-          39.99147035535676
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "dataType": "周边业态~金融银行~银行相关"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.46744770039221,
-          39.99433651274971
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "dataType": "周边业态~金融银行~银行相关"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.46364284383472,
-          39.99322059496984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "dataType": "周边业态~金融银行~银行相关"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.4612448384813,
-          39.99345178054498
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "dataType": "周边业态~金融银行~银行相关"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.46629749493427,
-          39.994216640300614
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "dataType": "周边业态~金融银行~银行相关"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.46166383309497,
-          39.98714810893472
+          116.46553905377127,
+          39.99213618965709
         ]
       }
     }
